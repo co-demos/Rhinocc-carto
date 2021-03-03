@@ -1,0 +1,467 @@
+rh_id,n_ref,statut_infos,departement,code_departement,ville,code_commune,nom,structure_porteuse,code_postal,adresse,adresse_suite,adresse_full,geo_lat,geo_lon,nature_juridique,type_lieu,rattachement,tel_structure
+RH_fiche_1_,Ref_0001,Actualisé (S.),11,=11=,Alzonne,,FEP Médiathèque,Carcasonne Agglo,11170,Parc municipal,,Parc municipal 11170 Alzonne,,,,Médiathèque,,04 68 76 33 02
+RH_fiche_2_,Ref_0002,,11,=11=,Berriac,,Le Relai,,11000,,,11000 Berriac,,,Association,,,
+RH_fiche_3_,Ref_0003,,11,=11=,Bouisse,,Maison de services au public POM's de Bouisse,,11330,11 Avenue Las Nautas Corbieras,,11 Avenue Las Nautas Corbieras 11330 Bouisse,,,,MSAP,,04 68 48 88 73
+RH_fiche_4_,Ref_0004,Actualisé (S.),11,=11=,Boutenac,,Mediatheque Milcom de Boutenac,,11200,8 Boulevard de Ronde,,8 Boulevard de Ronde 11200 Boutenac,,,collectivité territoriale,Médiathèque,,04 68 45 79 61
+RH_fiche_5_,Ref_0005,,11,=11=,Bram,,France Services - Piège Lauragais Malepere,Communauté De Commune PIEGE LAURAGAIS MALEPERE,11150,62 rue bonrepos,,62 rue bonrepos 11150 Bram,,,collectivité territoriale,,,
+RH_fiche_6_,Ref_0006,,11,=11=,Capendu,,France Services / MSAP - Carcassone Agglo,CARCASSONNE AGGLO,11700,2 rue des Figuères,,2 rue des Figuères 11700 Capendu,,,collectivité territoriale,,,
+RH_fiche_7_,Ref_0007,Actualisé (S.),11,=11=,Carcasonne,,R'MINE - FABLAB CARACASSONNE AGGLO,CARCASSONNE AGGLO,11000,20 rue Claude CHAPPE,,20 rue Claude CHAPPE 11000 Carcasonne,,,collectivité territoriale,,,04.68.11.95.58
+RH_fiche_8_,Ref_0008,Actualisé (S.),11,=11=,Carcassonne,,Régie de quartier,Le Comité National de liaison des Régies de quartier,11000,46 bis rue Alexandre Guiraud,,46 bis rue Alexandre Guiraud 11000 Carcassonne,,,Association,,,04 68 47 22 71 / 04 68 25 80 32
+RH_fiche_9_,Ref_0009,,11,=11=,Carcassonne,,Espace Culturel Multimédia,,11000,,,11000 Carcassonne,,,collectivité territoriale,,,
+RH_fiche_10_,Ref_0010,Actualisé (S.),11,=11=,Narbonne,,acti city - Information Jeunesse,,11100,13 BOULEVARD GAMBETTA,,13 BOULEVARD GAMBETTA 11100 Narbonne,,,Association,,,04 68 25 12 25
+RH_fiche_11_,Ref_0011,,11,=11=,Carcassonne,,Logigames,,11000,25 boulevard de Varsovie,,25 boulevard de Varsovie 11000 Carcassonne,,,Entreprise,,,04 68 72 67 04
+RH_fiche_12_,Ref_0012,,11,=11=,Caves,,ATRIUM,,11510,,,11510 Caves,,,,,,
+RH_fiche_13_,Ref_0013,,11,=11=,Davejean,,Maison de services au public POM'S de Davejean,,11330,rue de la poste,,rue de la poste 11330 Davejean,,,,MSAP,,04 68 70 09 47
+RH_fiche_14_,Ref_0014,,11,=11=,Fabrezan,,Mediatheque Milcom de Fabrezan,,11200,1 Avenue de la Mairie,,1 Avenue de la Mairie 11200 Fabrezan,,,collectivité territoriale,Médiathèque,,04 68 43 71 92
+RH_fiche_15_,Ref_0015,,11,=11=,Lezignan,,Isis (epicerie solidaire),,11200,39 rue Lamartine,,39 rue Lamartine 11200 Lezignan,,,Association,,,
+RH_fiche_16_,Ref_0016,,11,=11=,Lezignan Corbières,,MJC Lezignan Corbières,,11200,25 Rue Marat,,25 Rue Marat 11200 Lezignan Corbières,,,Association,MJC,,04 68 27 03 34
+RH_fiche_17_,Ref_0017,,65,=65=,Bagnères de Bigorre,,Maison Départementale de la Solidarité site de Bagnères,,65200,1 avenue de Castelmouly,,1 avenue de Castelmouly 65200 Bagnères de Bigorre,,,,,Département des Hautes Pyrénées,05 31 74 36 20
+RH_fiche_18_,Ref_0018,,11,=11=,Limoux,,France Services - Limouxin,MSA,11300,17 chemin Farinier,,17 chemin Farinier 11300 Limoux,,,,,,
+RH_fiche_19_,Ref_0019,,11,=11=,Limoux,,TIERS LIEUX LIMOUX,,11300,7  rue du Cougaing,,7  rue du Cougaing 11300 Limoux,,,SCIC SARL,SCIC SAPIE,,468747330
+RH_fiche_20_,Ref_0020,,11,=11=,Mouthoumet,,Centre social Adhco,,11330,23 rue de la gare,,23 rue de la gare 11330 Mouthoumet,,,,Centre social,,04 68 70 18 50
+RH_fiche_21_,Ref_0021,,11,=11=,Mouthoumet,,France Services - Massif de Mouthoumet,ADHCO CENTRE SOCIAL,11330,23 rue de la gare,,23 rue de la gare 11330 Mouthoumet,,,Association,,,04 68 70 18 50
+RH_fiche_22_,Ref_0022,,11,=11=,Narbonne,,Ecole régionale deuxieme chance,,11000,,,11000 Narbonne,,,,,,
+RH_fiche_23_,Ref_0023,,11,=11=,Narbonne,,Versus Internet Café,,11000,,,11000 Narbonne,,,,,,
+RH_fiche_24_,Ref_0024,,11,=11=,Narbonne,,Maison de la l'Emploi et de la Formation,,11000,,,11000 Narbonne,,,,,,
+RH_fiche_25_,Ref_0025,,11,=11=,Narbonne,,Centre social Aide Mutuelle à l'Insertion,,11000,24 boulevard Frédéric Mistral,,24 boulevard Frédéric Mistral 11000 Narbonne,,,,Centre social,,04 68 65 07 10
+RH_fiche_26_,Ref_0026,,11,=11=,Narbonne,,Centre Social et Culturel Nelson MANDELA,,11000,4 Promenade Emilie Palomo,,4 Promenade Emilie Palomo 11000 Narbonne,,,,Centre social,,04 68 41 77 26
+RH_fiche_27_,Ref_0027,,11,=11=,Port la Nouvelle,,Le Lieu Ressources Littoral,,11210,222 rue de la Mairie,,222 rue de la Mairie 11210 Port la Nouvelle,,,,,,04.68.40.37.45
+RH_fiche_28_,Ref_0028,,11,=11=,Narbonne,,France Services - PIMMS du Narbonnais,Union Nationale des PIMMS,11000,8 avenue du Maréchal Foch,,8 avenue du Maréchal Foch 11000 Narbonne,,,,PIMMS MSAP,,04 68 43 68 93
+RH_fiche_29_,Ref_0029,,11,=11=,Narbonne,,INESS GRAND NARBONNE,C.C GRAND NARBONNE,11100,30 avenue Pompidor,,30 avenue Pompidor 11100 Narbonne,,,Collectivites,,,04 11 23 22 00
+RH_fiche_30_,Ref_0030,,11,=11=,Saint Marcel sur Aude,,France Services - Centre Socioculturel et Familial ‘Les Passerelles’,,11120,107 avenue de Saint Pons,BP 8,107 avenue de Saint Pons 11120 Saint Marcel sur Aude,,,,Centre social,,04 68 42 35 25
+RH_fiche_31_,Ref_0031,,11,=11=,Salles sur l'hers,,France Services - Centre social Energies de la Piège,Castelnaudary Lauragais Audois,11410,9 Rue des Rosiers,,9 Rue des Rosiers 11410 Salles sur l'hers,,,Association,MSAP,,04 68 60 38 98
+RH_fiche_32_,Ref_0032,,11,=11=,Sigean,,France Services - PIMMS - Corbières Méditerranée,Union Nationale des PIMMS,11130,2 place de la Libération,,2 place de la Libération 11130 Sigean,,,,PIMMS,,04 68 33 51 12
+RH_fiche_33_,Ref_0033,,11,=11=,Thezan des corbieres,,Espace Public Numérique de la Contrée de Durban-Corbières,,11200,,,11200 Thezan des corbieres,,,,,,
+RH_fiche_34_,Ref_0034,,11,=11=,Argens-minervois,,Tiers-lieu « l’oppidum »,,11200,18 Rue de l’ancienne forge,,18 Rue de l’ancienne forge 11200 Argens-minervois,,,,,,06 41 28 46 74
+RH_fiche_35_,Ref_0035,,11,=11=,CARCASSONNE,,MEDIATHEQUE GRAIN D’SEL,Carcassonne Agglo,11000,Rue Fédou,,Rue Fédou 11000 CARCASSONNE,,,,Médiathèque,,04 68 10 35 50
+RH_fiche_36_,Ref_0036,,11,=11=,Chalabre,,Maison de Services au Public de Chalabre,La Poste,11230,Bureau de poste Avenue Auguste Cathala,,Bureau de poste Avenue Auguste Cathala 11230 Chalabre,,,,MSAP,,
+RH_fiche_37_,Ref_0037,,11,=11=,Axat,,Maison de Services au Public d’Axat,La Poste,11140,Bureau de poste 1 Place du Jardin public,,Bureau de poste 1 Place du Jardin public 11140 Axat,,,,MSAP,,
+RH_fiche_38_,Ref_0038,,11,=11=,Belcaire,,Maison de Services au Public de Belcaire,La Poste,11340,Bureau de poste 10 rue de la Poste,,Bureau de poste 10 rue de la Poste 11340 Belcaire,,,,MSAP,,04 68 20 32 76
+RH_fiche_39_,Ref_0039,,11,=11=,Belvèze-du-Razès,,Maison de Services au Public de Belvèze-du-Razès,La Poste,11240,Bureau de poste 27 allée des Platanes,,Bureau de poste 27 allée des Platanes 11240 Belvèze-du-Razès,,,,MSAP,,04 68 69 00 60
+RH_fiche_40_,Ref_0040,,11,=11=,Couiza,,Maison de Services au Public de Couiza,La Poste,11190,Bureau de poste 20 RN Pyrénées,,Bureau de poste 20 RN Pyrénées 11190 Couiza,,,,MSAP,,
+RH_fiche_41_,Ref_0041,,11,=11=,Villasavary,,Maison de Services au Public de Villasavary,,11150,42 rue du Barry,,42 rue du Barry 11150 Villasavary,,,,MSAP,,04 68 11 93 95
+RH_fiche_42_,Ref_0042,,11,=11=,Narbonne,,Maison des Potes,,11100,5 rue Baudin,,5 rue Baudin 11100 Narbonne,,,Association,,,04 68 65 10 55
+RH_fiche_43_,Ref_0043,,11,=11=,Narbonne,,L'Arche,,11100,1 rue de l'Orbieu,,1 rue de l'Orbieu 11100 Narbonne,,,Association,,,04 68 41 03 65
+RH_fiche_44_,Ref_0044,,11,=11=,Narbonne,,Centre Social et Culturel NELSON MANDELA,,11100,4 Promenade Emilie Palomo,,4 Promenade Emilie Palomo 11100 Narbonne,,,,Centre social,,04 68 41 77 26
+RH_fiche_45_,Ref_0045,,11,=11=,Carcassonne,,Ecole de la seconde chance,,11000,82 Rue Barbacane,,82 Rue Barbacane 11000 Carcassonne,,,,,,04 68 25 56 74
+RH_fiche_46_,Ref_0046,,11,=11=,Narbonne,,MAISON DIGITALE DU CIDFF,,11100,37 avenue des Pyrénées,,37 avenue des Pyrénées 11100 Narbonne,,,,,,04.68.42.51.33
+RH_fiche_47_,Ref_0047,,11,=11=,Narbonne,,LA BULLE DU WEB (WAW-coworking),,11100,12 Boulevard Gambetta,,12 Boulevard Gambetta 11100 Narbonne,,,,,,09 82 38 35 49
+RH_fiche_48_,Ref_0048,,11,=11=,Narbonne,,Ecole de la seconde Chance,,11100,1 avenue gustave eiffel,,1 avenue gustave eiffel 11100 Narbonne,,,,,,04 68 40 34 12
+RH_fiche_49_,Ref_0049,,11,=11=,Caunes-Minervois,,Maison de services au public Caunes-Minervois,,11160,Allée des Raisins,,Allée des Raisins 11160 Caunes-Minervois,,,,MSAP,,
+RH_fiche_50_,Ref_0050,,11,=11=,Durban-Corbières,,Maison de services au public Durban-Corbières,,11360,6 Rue de la Mairie,,6 Rue de la Mairie 11360 Durban-Corbières,,,,MSAP,,
+RH_fiche_51_,Ref_0051,,11,=11=,Palaja,,Médiathèque Municipale de Palaja,,11570,Rue Lô Moral,,Rue Lô Moral 11570 Palaja,,,,Médiathèque,,04 68 79 85 73
+RH_fiche_52_,Ref_0052,,11,=11=,Alzonne,,Médiathèque d'Alzonne,,11170,Parc Municipal,,Parc Municipal 11170 Alzonne,,,,Médiathèque,,04 68 76 33 02
+RH_fiche_53_,Ref_0053,,11,=11=,Capendu,,Maison de services au public - Piemont d'Alaric,,11700,2 Rue des Figuères,,2 Rue des Figuères 11700 Capendu,,,,MSAP,,04 68 79 87 01
+RH_fiche_54_,Ref_0054,,11,=11=,Capendu,,Le Chai : Espace culturel,,11700,63 Avenue des Anciens Combattants,,63 Avenue des Anciens Combattants 11700 Capendu,,,Association,,,04 68 79 37 91
+RH_fiche_55_,Ref_0055,,11,=11=,Axat,,Mairie d'Axat,,11140,66 Route Départementale,,66 Route Départementale 11140 Axat,,,collectivité territoriale,,,04 68 20 50 28
+RH_fiche_56_,Ref_0056,,11,=11=,Espezel,,Médiathèque du Pays de Sault,,11230,Grand'Rue,,Grand'Rue 11230 Espezel,,,,Médiathèque,,04 68 74 38 93
+RH_fiche_57_,Ref_0057,,11,=11=,Chalabre,,Bibliothèque Municipale de Chalabre,,11230,4 Rue des Boulangers,,4 Rue des Boulangers 11230 Chalabre,,,,Bibliothèque,,04 68 69 49 06
+RH_fiche_58_,Ref_0058,,11,=11=,Espéraza,,Médiathèque d'Espéraza,,11260,avenue de la gare,,avenue de la gare 11260 Espéraza,,,,Médiathèque,,04 68 74 13 51
+RH_fiche_59_,Ref_0059,,11,=11=,Villerouge-Termenès,,Maison de services au public POM'S de Villerouge-Termenès,,11330,8 Rue du Couvent,,8 Rue du Couvent 11330 Villerouge-Termenès,,,,MSAP,,04 68 70 00 16
+RH_fiche_60_,Ref_0060,,11,=11=,Tuchan,,Maison de services au public Tuchan,,11350,21 rue de la poste,,21 rue de la poste 11350 Tuchan,,,,MSAP,,
+RH_fiche_61_,Ref_0061,,11,=11=,Trèbes,,Médiathèque de Trèbes,,11800,place de l'hôtel de ville,,place de l'hôtel de ville 11800 Trèbes,,,,Médiathèque,,04 68 78 51 33
+RH_fiche_62_,Ref_0062,,11,=11=,Saint-Laurent de la Cabrerisse,,Médiathèque de Saint-Laurent de la Cabrerisse,,11220,22 avenue de narbonne,,22 avenue de narbonne 11220 Saint-Laurent de la Cabrerisse,,,,Médiathèque,,04 68 33 39 30
+RH_fiche_63_,Ref_0063,,11,=11=,Saint-André de Roquelongue,,Médiathèque Milcom de Saint-André de Roquelongue,,11200,120 rue des écoles,,120 rue des écoles 11200 Saint-André de Roquelongue,,,,Médiathèque,,04 68 45 17 56
+RH_fiche_64_,Ref_0064,,11,=11=,Limoux,,Espace Public Numérique de la MLIDR11 Limoux,,11300,5 avenue de la gare,,5 avenue de la gare 11300 Limoux,,,,,,04 68 74 70 90
+RH_fiche_65_,Ref_0065,,11,=11=,Laroque de Fa,,Maison de services au public POM'S Laroque de Fa,,11330,6 rue de la mairie,,6 rue de la mairie 11330 Laroque de Fa,,,,MSAP,,04 68 70 08 27
+RH_fiche_66_,Ref_0066,,11,=11=,Lanet,,Maison de services au public POM'S de Lanet,,11330,Place de la mairie,,Place de la mairie 11330 Lanet,,,,MSAP,,04 68 70 02 34
+RH_fiche_67_,Ref_0067,,11,=11=,Mouthoumet,,ADHCo Centre Social,,11330,23 Rue de la Gare,,23 Rue de la Gare 11330 Mouthoumet,,,,Centre social,,04 68 70 18 50
+RH_fiche_68_,Ref_0068,,11,=11=,Mouthoumet,,Maison de services au public POM'S de Mouthoumet,,11330,12 Rue de la Gare,,12 Rue de la Gare 11330 Mouthoumet,,,,MSAP,,04 68 42 12 95
+RH_fiche_69_,Ref_0069,,11,=11=,Félines-Termenès,,Maison de services au public POM'S de Félines-Termenès,,11330,20 Avenue Termenès,,20 Avenue Termenès 11330 Félines-Termenès,,,,MSAP,,
+RH_fiche_70_,Ref_0070,,11,=11=,Castelnaudary,,Mission Locale Ouest Audois,,11400,53 Boulevard Général Lapasset,,53 Boulevard Général Lapasset 11400 Castelnaudary,,,,Mission locale,,04 68 23 67
+RH_fiche_71_,Ref_0071,,11,=11=,Castelnaudary,,Médiathèque Georges Canguilhem,,11400,8 Rue du Commandant Raynal,,8 Rue du Commandant Raynal 11400 Castelnaudary,,,,Médiathèque,,04 68 94 58 49
+RH_fiche_72_,Ref_0072,,11,=11=,Carcassonne,,Espace de co-oworking : L'Alpha'[R],CARCASSONNE AGGLO,11000,20 Rue Claude Chappe,,20 Rue Claude Chappe 11000 Carcassonne,,,,,,
+RH_fiche_73_,Ref_0073,,11,=11=,Carcassonne,,Ateliers Canopé,,11000,10 Boulevard Omer Sarraut,,10 Boulevard Omer Sarraut 11000 Carcassonne,,,Association,,,
+RH_fiche_74_,Ref_0074,,11,=11=,Carcassonne,,Point Numérique,Préfecture de l'Aude,11000,52 Rue Jean Bringer,,52 Rue Jean Bringer 11000 Carcassonne,,,,,,04 68 10 27 00
+RH_fiche_75_,Ref_0075,,11,=11=,Limoux,,Point Numérique,Préfecture de l'Aude,11300,12 rue du palais,,12 rue du palais 11300 Limoux,,,,,,04 68 31 03 50
+RH_fiche_76_,Ref_0076,,11,=11=,Vignevieille,,Maison de services au public POM'S de Vignevieille,,11330,6 rue du lavoir,,6 rue du lavoir 11330 Vignevieille,,,,MSAP,,04 68 70 06 81
+RH_fiche_77_,Ref_0077,,11,=11=,Quillan,,Bibliothèque Municipale de Quillan,,11500,9 Place Raoul de Volontat,,9 Place Raoul de Volontat 11500 Quillan,,,,Bibliothèque,,04 68 31 15 46
+RH_fiche_78_,Ref_0078,,11,=11=,Villepinte,,Médiathèque de Villepinte,,11150,12 boulevard gambetta,,12 boulevard gambetta 11150 Villepinte,,,,Médiathèque,,01 55 85 96 33
+RH_fiche_79_,Ref_0079,,11,=11=,Narbonne,,MEDIATHEQUE DU GRAND NARBONNE,Grand Narbonne,11100,9 Boulevard Frédéric Mistral,,9 Boulevard Frédéric Mistral 11100 Narbonne,,,,Médiathèque,,04 68 43 40 40
+RH_fiche_80_,Ref_0080,,11,=11=,LES ILHES CABARDES,,Maison de Services au Public du Haut Cabardès,,11380,Route de Mas-Cabardès,,Route de Mas-Cabardès 11380 LES ILHES CABARDES,,,,MSAP,,04 68 26 33 22
+RH_fiche_81_,Ref_0081,,11,=11=,Bram,,Pop Coworking,,11150,2 impasse de malepère,,2 impasse de malepère 11150 Bram,,,,,,06 67 32 58 10
+RH_fiche_82_,Ref_0082,,11,=11=,SALLES-SUR-L’HERS,,Cowork'in Ganguise,,11410,Mairie,,Mairie 11410 SALLES-SUR-L’HERS,,,,,,06 77 87 39 84
+RH_fiche_83_,Ref_0083,,11,=11=,Sainte-Valière,,Médiathèque Lo Gal,,11120,7 Place de l'Église,,7 Place de l'Église 11120 Sainte-Valière,,,,Médiathèque,,04 68 46 31 19
+RH_fiche_84_,Ref_0084,,11,=11=,Rouffiac-d’Aude,,Médiathèque,Carcassonne Agglo,11250,Allée des Marronniers,,Allée des Marronniers 11250 Rouffiac-d’Aude,,,,Médiathèque,,04 68 26 48 95
+RH_fiche_85_,Ref_0085,,11,=11=,CARCASSONNE,,LIEU RESSOURCES INSERTION,Ligue de l'enseignement,11000,16 rue Fédou,,16 rue Fédou 11000 CARCASSONNE,,,,,,04 68 25 99 88
+RH_fiche_86_,Ref_0086,,11,=11=,Gruissan,,MJC de Gruissan,,11430,Montée du Pech,,Montée du Pech 11430 Gruissan,,,,,,04 68 49 61 87
+RH_fiche_87_,Ref_0087,,11,=11=,Carcassonne,,MJC de Carcassonne,,11000,91 rue Aimé Ramond,,91 rue Aimé Ramond 11000 Carcassonne,,,,,,04 68 11 17 00
+RH_fiche_88_,Ref_0088,,31,=31=,Arbas,,Bibliothèque municipale,Foyer rural,31160,Place de la Mairie,,Place de la Mairie 31160 Arbas,,,,Bibliothèque,,05 61 98 18 03
+RH_fiche_89_,Ref_0089,,31,=31=,Auterive,,Le foyer Auterive,,31190,1 place du Maréchal Leclerc,,1 place du Maréchal Leclerc 31190 Auterive,,,,Centre social,,
+RH_fiche_90_,Ref_0090,,31,=31=,Auterive,,Médiathèque municipale,,31190,780 Route d'Espagne,,780 Route d'Espagne 31190 Auterive,,,,,,05 82 95 45 75
+RH_fiche_91_,Ref_0091,,31,=31=,Auterive,,Communauté de communes de bassin auterivain,,31190,ZI Robert Lavigne RD 820,,ZI Robert Lavigne RD 820 31190 Auterive,,,collectivité territoriale,,,05 61 50 99 00
+RH_fiche_92_,Ref_0092,,31,=31=,Auterive,,France Service - CC Bassin Auterivain,Communauté de communes,31190,Rd 820 ZI Robert Lavigne,,Rd 820 ZI Robert Lavigne 31190 Auterive,,,collectivité territoriale,,,
+RH_fiche_93_,Ref_0093,,31,=31=,Auterive,,TL ESPACE FIRMIN PONS,COMMUNE AUTERIVE,31190,780 route d'Espagne,,780 route d'Espagne 31190 Auterive,,,collectivité territoriale,,,05.61.50.96.87
+RH_fiche_94_,Ref_0094,,31,=31=,Bagnères de Luchon,,MJC,,31110,,,31110 Bagnères de Luchon,,,,,,
+RH_fiche_95_,Ref_0095,,31,=31=,Escalquens,,Le 100eme singe,,31750,13 avenue de la mairie,,13 avenue de la mairie 31750 Escalquens,,,Association,,,06 05 03 06 09
+RH_fiche_96_,Ref_0096,,31,=31=,Bessieres,,France Services - Val Aïgo Antenne de Bessières,Communauté de communes Val'Aïgo,31660,26 Place du souvenir,,26 Place du souvenir 31660 Bessieres,,,collectivité territoriale,,,
+RH_fiche_97_,Ref_0097,,31,=31=,Blagnac,,Mairie de Blagnac,,31700,1 place des Arts,,1 place des Arts 31700 Blagnac,,,collectivité territoriale,,,05 61 71 72 00
+RH_fiche_98_,Ref_0098,,31,=31=,Blagnac,,MJC DES ARTS BLAGNAC,,31700,2 rue de la Croix Blanche,,2 rue de la Croix Blanche 31700 Blagnac,,,ASSOCIATION,,,05 34 26 52 75
+RH_fiche_99_,Ref_0099,,31,=31=,Cazères,,Maison Pour tous,,31220,6 rue des Capucins,,6 rue des Capucins 31220 Cazères,,,,Centre social,,
+RH_fiche_100_,Ref_0100,,31,=31=,Cintegabelle,,Foyer rural « La Gabela »,,31550,mairie,,mairie 31550 Cintegabelle,,,,Foyer rural,,
+RH_fiche_101_,Ref_0101,,31,=31=,Clarac,,foyer rural Clarac,,31210,Chemin de Sainte Anne,,Chemin de Sainte Anne 31210 Clarac,,,Association,Foyer rural,,05 61 89 70 64
+RH_fiche_102_,Ref_0102,,31,=31=,Colomiers,,Mairie,,31770,,,31770 Colomiers,,,collectivité territoriale,,,
+RH_fiche_103_,Ref_0103,,31,=31=,Colomiers,,CCAS,,31770,18 PLACE DU LANGUEDOC,,18 PLACE DU LANGUEDOC 31770 Colomiers,,,collectivité territoriale,,,
+RH_fiche_104_,Ref_0104,,31,=31=,Colomiers,,LA MIJOTEUSE,COMMUNE DE COLOMIERS,31770,Place Joseph Verseille,,Place Joseph Verseille 31770 Colomiers,,,collectivité territoriale,,,06.38.50.65.31.
+RH_fiche_105_,Ref_0105,,31,=31=,Colomiers,,Point Rencontres Chomeurs Precaires (PRCP),,31770,2 Allée du Vignemale,,2 Allée du Vignemale 31770 Colomiers,,,,,,
+RH_fiche_106_,Ref_0106,,31,=31=,Fenouillet,,Association Femmes du Monde,,31150,,,31150 Fenouillet,,,Association,Centre social,,"05 31 48 50 99
+06 27 20 24 70"
+RH_fiche_107_,Ref_0107,,31,=31=,La Salvetat Saint Gilles,,centre social F Chopin,,31880,Rue Frédéric Chopin,,Rue Frédéric Chopin 31880 La Salvetat Saint Gilles,,,,Centre social,,05.34.52.70.96
+RH_fiche_108_,Ref_0108,,31,=31=,Labège,,ASSOCIATION IOT VALLEY,,31670,425 rue Jean Rostand,,425 rue Jean Rostand 31670 Labège,,,ASSOCIATION,,,
+RH_fiche_109_,Ref_0109,,31,=31=,Labège,,Centre social Escalquens / CCAS,,31670,Mairie d'Escalquens Place François Mitterrand,,Mairie d'Escalquens Place François Mitterrand 31670 Labège,,,,Centre social,,05 62 71 56 75
+RH_fiche_110_,Ref_0110,,31,=31=,Lagardelle-sur-Lèze,,EVOLFABLAB,,31870,289 route de la fontannasse,,289 route de la fontannasse 31870 Lagardelle-sur-Lèze,,,ASSOCIATION,,,06 20 22 11 48
+RH_fiche_111_,Ref_0111,,31,=31=,Lagardelle-sur-Lèze,,Mairie,,31870,,,31870 Lagardelle-sur-Lèze,,,,,,
+RH_fiche_112_,Ref_0112,,31,=31=,Lagardelle-sur-Lèze,,Médiathèque municipale,,31870,3 Château de Vignaou,,3 Château de Vignaou 31870 Lagardelle-sur-Lèze,,,,,,
+RH_fiche_113_,Ref_0113,,31,=31=,Le Fauga,,Desir informatique faugatien,,31410,1 Place de la HALLE,,1 Place de la HALLE 31410 Le Fauga,,,Association,,,
+RH_fiche_114_,Ref_0114,,31,=31=,Le Fauga,,mairie La Fauga,,31410,1 Place de la Halle,,1 Place de la Halle 31410 Le Fauga,,,collectivité territoriale,,,
+RH_fiche_115_,Ref_0115,,31,=31=,Lespinasse,,PCWORKS31,,31150,2 Allée Pierre-paul Riquet,,2 Allée Pierre-paul Riquet 31150 Lespinasse,,,,,,0954 882 757
+RH_fiche_116_,Ref_0116,,31,=31=,Lherm,,C N S Communications,,31600,9 Rue de la Foret,,9 Rue de la Foret 31600 Lherm,,,,,,
+RH_fiche_117_,Ref_0117,,31,=31=,Léguevin,,centre social La Maison des Quartiers,,31490,49 rue Pipet,,49 rue Pipet 31490 Léguevin,,,,Centre social,,05 61 06 90 13
+RH_fiche_118_,Ref_0118,,31,=31=,Lévignac,,centre social Vallée de la Save,Communauté de communes de la Save au Touch,31530,5 rue de la Mairie,,5 rue de la Mairie 31530 Lévignac,,,,Centre social,,05 62 13 80 20
+RH_fiche_119_,Ref_0119,,31,=31=,Merville,,Centre Social de Merville / CCAS,,31330,50 rue du 19 mars 1962,,50 rue du 19 mars 1962 31330 Merville,,,,Centre social,,05 62 13 40 95
+RH_fiche_120_,Ref_0120,,31,=31=,Miremont,,Médiathèque,,31190,Place Carreties,,Place Carreties 31190 Miremont,,,,,,05 61 50 67 05
+RH_fiche_121_,Ref_0121,,31,=31=,Montbrun Bocage,,L'ordinateur facile,,31310,3 rue du Rebarat,,3 rue du Rebarat 31310 Montbrun Bocage,,,Association,,,06 51 91 40 96
+RH_fiche_122_,Ref_0122,,31,=31=,Montrejeau,,SARAPP Montrejeau,,31210,,,31210 Montrejeau,,,,,,05.61.94.59.82
+RH_fiche_123_,Ref_0123,,31,=31=,Nailloux,,France Services - CC Terres du Lauragais,Communauté de communes,31560,1 rue de la république,,1 rue de la république 31560 Nailloux,,,collectivité territoriale,,,
+RH_fiche_124_,Ref_0124,,31,=31=,Pibrac,,Maison des Initiatives Sociales et Culturelles,,31820,1 Impasse de la Gare,,1 Impasse de la Gare 31820 Pibrac,,,,Centre social,,
+RH_fiche_125_,Ref_0125,,31,=31=,Plaisance du Touch,,centre social Sesame,,31830,1 rue des Tilleuls,,1 rue des Tilleuls 31830 Plaisance du Touch,,,,Centre social,,05 62 13 52 57
+RH_fiche_126_,Ref_0126,,31,=31=,Puydaniel,,Solidarité Numérique CCAS,ASSOCIATION PLANETE SCIENCES OCCITANIE,31190,8 avenue des Pyrénées,,8 avenue des Pyrénées 31190 Puydaniel,,,collectivité territoriale,,,05 61 50 72 44
+RH_fiche_127_,Ref_0127,,31,=31=,Ramonville,,"Le PIC : ""Projet Internet et Citoyenneté""",,31520,14 chemin pouciquot,,14 chemin pouciquot 31520 Ramonville,,,Association,,,06 76 08 88 39 ou 06 01 22 32 91
+RH_fiche_128_,Ref_0128,,31,=31=,Ramonville,,Le F@bRiquet,,31520,14 rue Hermes,,14 rue Hermes 31520 Ramonville,,,ASSOCIATION,,,05 61 73 10 22
+RH_fiche_129_,Ref_0129,,31,=31=,Rieumes,,France Services - CC Cœur de Garonne,Communauté de Communes Cœur de Garonne,31370,2 Place du marché à la volaille,,2 Place du marché à la volaille 31370 Rieumes,,,collectivité territoriale,,,
+RH_fiche_130_,,,,,,,,,,,,,,,,,,
+RH_fiche_131_,Ref_0131,,31,=31=,Saint Gaudens,,MJC / cyber-base du Saint-Gaudinois,,31800,1 place du maréchal juin,,1 place du maréchal juin 31800 Saint Gaudens,,,Association,,,05 61 94 66 45
+RH_fiche_132_,Ref_0132,,31,=31=,Saint Gaudens,,Club de prévention Saint Gaudens,Conseil Départemental,31800,5 rue de la République,,5 rue de la République 31800 Saint Gaudens,,,collectivité territoriale,club de prévention,,05 61 95 10 66
+RH_fiche_133_,Ref_0133,,31,=31=,Saint Gaudens,,TIERS LIEUX EN COMMINGES,MAISON DE L AVENIR COMMINGES PYRENEES,31800,1 place Maréchal Juin,,1 place Maréchal Juin 31800 Saint Gaudens,,,ASSOCIATION,,,05.61.94.66.45
+RH_fiche_134_,Ref_0134,,31,=31=,Saint Gaudens,,Cyber-base,,31800,1 Place du Marechal Juin,,1 Place du Marechal Juin 31800 Saint Gaudens,,,,,,
+RH_fiche_135_,Ref_0135,,31,=31=,Saint Orens,,CCAS,,31650,Place de la fraternité 2 Rosa Parks,,Place de la fraternité 2 Rosa Parks 31650 Saint Orens,,,collectivité territoriale,,,05 61 39 54 05
+RH_fiche_136_,Ref_0136,,31,=31=,Saint Orens de Gameville,,Espace Pour Tous,,31650,2 Rue des Muriers,,2 Rue des Muriers 31650 Saint Orens de Gameville,,,collectivité territoriale,Centre social,,05 61 39 54 03
+RH_fiche_137_,Ref_0137,,31,=31=,Saint-Jean,,Mairie,COMMUNE DE ST JEAN,31240,33 ter route d'Albi,,33 ter route d'Albi 31240 Saint-Jean,,,collectivité territoriale,,,05 32 09 68 37
+RH_fiche_138_,Ref_0138,,31,=31=,Saint-Jean,,MJC Les Granges / Saint Jean,,31240,33 route d'Albi,ter,33 route d'Albi 31240 Saint-Jean,,,,,,05 32 09 67 50
+RH_fiche_139_,Ref_0139,,31,=31=,Saint-Jean,,Centre Social Les Granges / Saint Jean,,31240,33 route d'Albi,ter,33 route d'Albi 31240 Saint-Jean,,,,Centre social,,05 32 09 68 37
+RH_fiche_140_,Ref_0140,,31,=31=,Saint-Jean,,CREATEC - LES GRANGES,ASSOCIATION MJC SAINT JEAN,31240,33 terue route d'Albi,,33 terue route d'Albi 31240 Saint-Jean,,,ASSOCIATION,,,
+RH_fiche_141_,Ref_0141,,31,=31=,Saint-Lys,,MJC-Centre social,,31470,1 Rue des Glycines,,1 Rue des Glycines 31470 Saint-Lys,,,,Centre social,,05 34 48 56 91
+RH_fiche_142_,Ref_0142,,31,=31=,Toulouse,,Bibliotheque Grand M,,31000,37 avenue de la Reynerie,,37 avenue de la Reynerie 31000 Toulouse,,,collectivité territoriale,Bibliothèque,,05 81 91 79 40
+RH_fiche_143_,Ref_0143,,31,=31=,Toulouse,,Combustible numérique,,31200,Atelier TA – 32 rue des Jumeaux,,Atelier TA – 32 rue des Jumeaux 31200 Toulouse,,,Association,Intervention itinérante  possible auprès de structures ou collectivités,,06 52 06 14 15
+RH_fiche_144_,Ref_0144,,31,=31=,Toulouse,,Trajectoire vers l'emploi,,31000,18 rue des couteliers,,18 rue des couteliers 31000 Toulouse,,,Association,Association,,05 34 41 15 99
+RH_fiche_145_,Ref_0145,,31,=31=,Toulouse,,Lieu Ressource Formation,,31100,11 Place André Abbal,,11 Place André Abbal 31100 Toulouse,,,Association,Organisme de formation,,05 62 48 53 20
+RH_fiche_146_,Ref_0146,,31,=31=,Toulouse,,CSF – Section Mirail,,31000,14 cheminement le Tintoret,,14 cheminement le Tintoret 31000 Toulouse,,,Association,Association,,
+RH_fiche_147_,Ref_0147,,31,=31=,Toulouse,,ADPAM,,31000,,,31000 Toulouse,,,Association,,,
+RH_fiche_148_,Ref_0148,,31,=31=,Toulouse,,Mieux Vivre Ensemble à la Gloire,,31000,2 rue du général Baurot,,2 rue du général Baurot 31000 Toulouse,,,Association,,,
+RH_fiche_149_,Ref_0149,,31,=31=,Toulouse,,Mission Locale Bagatelle,Mission locale Toulouse,31100,35 rue du Lot,,35 rue du Lot 31100 Toulouse,,,,,,05 61 41 35 28
+RH_fiche_150_,Ref_0150,,31,=31=,Toulouse,,ASTREE,,31000,,,31000 Toulouse,,,Association,,,
+RH_fiche_151_,Ref_0151,,31,=31=,Toulouse,,La case de santé,,31000,17 place Arnaud Bernard,,17 place Arnaud Bernard 31000 Toulouse,,,Association,,,05 61 23 62 35
+RH_fiche_152_,Ref_0152,,31,=31=,Toulouse,,Café social,,31000,38 rue Roquelaine,,38 rue Roquelaine 31000 Toulouse,,,Association,,,06 18 57 02 52
+RH_fiche_153_,Ref_0153,,31,=31=,Toulouse,,Mairie de quartier de Serveyrolles – Soupetard,,31000,,,31000 Toulouse,,,collectivité territoriale,Mairie de quartier,,
+RH_fiche_154_,Ref_0154,,31,=31=,Toulouse,,Maison de la citoyenneté Centre,,31000,5 rue Paul Mériel,,5 rue Paul Mériel 31000 Toulouse,,,collectivité territoriale,Maison de la citoyenneté,,
+RH_fiche_155_,Ref_0155,,31,=31=,Toulouse,,CCAS,,31000,2 bis rue de belfort,,2 bis rue de belfort 31000 Toulouse,,,collectivité territoriale,,,05 61 58 85 85
+RH_fiche_156_,Ref_0156,,31,=31=,Toulouse,,Centre d'Animation Soupetard,Toulouse Metropôle,31500,63 Chemin de Hérédia,,63 Chemin de Hérédia 31500 Toulouse,,,,,,05 31 22 99 70
+RH_fiche_157_,Ref_0157,,31,=31=,Toulouse,,MediPass,,31000,Le Clos Cezanne 40 chemin Amouroux,,Le Clos Cezanne 40 chemin Amouroux 31000 Toulouse,,,Association,,,06 10 45 05 29
+RH_fiche_158_,Ref_0158,,31,=31=,Toulouse,,Olympe SAVIF,,31000,3 Place Guy Hersant,Maison des associations,3 Place Guy Hersant 31000 Toulouse,,,Association,,,05 61 25 16 13
+RH_fiche_159_,Ref_0159,,31,=31=,Toulouse,,CPAM Bagatelle,CPAM,31100,33 rue du Lot,,33 rue du Lot 31100 Toulouse,,,,Antenne CPAM,,
+RH_fiche_160_,Ref_0160,,31,=31=,Toulouse,,Partage Faourette,,31100,13 rue de l'ukraine,,13 rue de l'ukraine 31100 Toulouse,,,,Centre social,,05 34 60 13 16
+RH_fiche_161_,Ref_0161,,31,=31=,Toulouse,,Pôle Emploi La Cepiere,Pôle Emploi,31100,4 Chemin du Pigeonnierue de Cepière,,4 Chemin du Pigeonnierue de Cepière 31100 Toulouse,,,,Agence Pôle Emploi,,39 49
+RH_fiche_162_,Ref_0162,,31,=31=,Toulouse,,"Pôle Emploi
+Bellefontaine",Pôle Emploi,31100,63 allées de Bellefontaine,,63 allées de Bellefontaine 31100 Toulouse,,,,Agence Pôle Emploi,,39 49
+RH_fiche_163_,Ref_0163,,31,=31=,Toulouse,,APSEM,,31100,3 rue Erik SATIE BP 35711,31057 Toulouse cedex 1,3 rue Erik SATIE BP 35711 31100 Toulouse,,,Association,,,05 34 60 39 40
+RH_fiche_164_,Ref_0164,,31,=31=,Toulouse,,Bell'Arc en Ciel,,31100,14 passage G Duhamel,Apt 299,14 passage G Duhamel 31100 Toulouse,,,Association,,,09 66 82 55 84
+RH_fiche_165_,Ref_0165,,31,=31=,Toulouse,,Maison des Solidarites,Conseil Départemental,31100,9 rue du Doyen Lefebvre,,9 rue du Doyen Lefebvre 31100 Toulouse,,,collectivité territoriale,,,
+RH_fiche_166_,Ref_0166,,31,=31=,Toulouse,,Regie de quartier Bellefontaine Services,,31100,41 rue Rimont,,41 rue Rimont 31100 Toulouse,,,Association,,,09 53 17 88 71
+RH_fiche_167_,Ref_0167,,31,=31=,Toulouse,,Conciergerie solidaire Desbals services,,31100,135 rue henri desbals,,135 rue henri desbals 31100 Toulouse,,,Association,,,05 62 14 12 55
+RH_fiche_168_,Ref_0168,,31,=31=,Toulouse,,Les imaginations fertiles,,31100,2 rue Raymond Lizop,,2 rue Raymond Lizop 31100 Toulouse,,,Association,,,05 61 40 92 16
+RH_fiche_169_,Ref_0169,,31,=31=,Toulouse,,"Regie de quartier
+Reynerie Services",,31100,14 avenue Winston Churchill,,14 avenue Winston Churchill 31100 Toulouse,,,Association,,,
+RH_fiche_170_,Ref_0170,,31,=31=,Toulouse,,Alliances et Cultures MUP,,31100,14 chemin du Mirail,,14 chemin du Mirail 31100 Toulouse,,,Association,,,05 61 44 67 63
+RH_fiche_171_,Ref_0171,,31,=31=,Toulouse,,Mission Locale Mirail,Mission locale Toulouse,31100,4 allée André Maginot,,4 allée André Maginot 31100 Toulouse,,,Association,,,05 61 41 77 33
+RH_fiche_172_,Ref_0172,,31,=31=,Toulouse,,Maison de l'initiative,,31100,,,31100 Toulouse,,,Association,,,05 34 63 81 10
+RH_fiche_173_,Ref_0173,,31,=31=,Toulouse,,N pays Okhan,,31100,,,31100 Toulouse,,,Association,,,
+RH_fiche_174_,Ref_0174,,31,=31=,Toulouse,,Parle avec elles,,31100,2 rue Jean Gilles,,2 rue Jean Gilles 31100 Toulouse,,,Association,,,
+RH_fiche_175_,Ref_0175,,31,=31=,Toulouse,,L'Ecole et Nous,,31100,10 cheminement Le Tintoret,,10 cheminement Le Tintoret 31100 Toulouse,,,Association,,,
+RH_fiche_176_,Ref_0176,,31,=31=,Toulouse,,Bas d'immeubles,,31100,3 chemin Vincent d'Indy,,3 chemin Vincent d'Indy 31100 Toulouse,,,Association,,,05.62.14.19.70 / 09 72 83 40 47
+RH_fiche_177_,Ref_0177,,31,=31=,Toulouse,,Voir et comprendre,,31100,,,31100 Toulouse,,,Association,,,
+RH_fiche_178_,Ref_0178,,31,=31=,Toulouse,,Centre social municipal Bellefontaine Lafourguette,,31100,3 impasse Foulquier,,3 impasse Foulquier 31100 Toulouse,,,,Centre social,,
+RH_fiche_179_,Ref_0179,,31,=31=,Toulouse,,Centre social alliances & Cultures Mirail rive droite,,31100,2 cheminement andré messager,,2 cheminement andré messager 31100 Toulouse,,,,Centre social,,05 61 44 67 63
+RH_fiche_180_,Ref_0180,,31,=31=,Toulouse,,"Centre social
+CAF Reynerie",,31100,15 place Abbal,,15 place Abbal 31100 Toulouse,,,,Centre social,,05 34 60 83 92
+RH_fiche_181_,Ref_0181,,31,=31=,Toulouse,,Espaces Seniors Connectes,,31100,14 place Abbal,,14 place Abbal 31100 Toulouse,,,Collectivité territoriale,,,
+RH_fiche_182_,Ref_0182,,31,=31=,Toulouse,,point information jeunesse (PIJ) Mirail,,31100,6 chemin Edgarue Varese,,6 chemin Edgarue Varese 31100 Toulouse,,,,,,05 61 72 45 37
+RH_fiche_183_,Ref_0183,,31,=31=,Toulouse,,PIJ,,31100,,,31100 Toulouse,,,,,,
+RH_fiche_184_,Ref_0184,,31,=31=,Toulouse,,MCEF,,31100,57 allées de Bellefontaine,,57 allées de Bellefontaine 31100 Toulouse,,,,,,
+RH_fiche_185_,Ref_0185,,31,=31=,Toulouse,,maison des solidarités Borderouge,Conseil départemental,31200,4 rue françoise d'eaubonne,Bat A,4 rue françoise d'eaubonne 31200 Toulouse,,,collectivité territoriale,,,05 34 36 17 00
+RH_fiche_186_,Ref_0186,,31,=31=,Toulouse,,LA FABRIQUE SOLIDAIRE DES MINIMES (FA SOL MI),,31200,29 bis avenue des Mazades,local des Mazades,29 bis avenue des Mazades 31200 Toulouse,,,Association,,,05 61 25 38 28
+RH_fiche_187_,Ref_0187,,31,=31=,Toulouse,,Pole Emploi Borderouge,Pole Emploi,31200,6 rue françoise d'eaubonne,Bat C,6 rue françoise d'eaubonne 31200 Toulouse,,,,Agence Pôle Emploi,,
+RH_fiche_188_,Ref_0188,,31,=31=,Toulouse,,Parole expression,,31200,19 rue Marc Arcis,,19 rue Marc Arcis 31200 Toulouse,,,Association,,,05 82 95 67 80
+RH_fiche_189_,Ref_0189,,31,=31=,Toulouse,,maison des solidarités Minimes,Conseil départemental,31200,33 rue joseph jacquard,,33 rue joseph jacquard 31200 Toulouse,,,collectivité territoriale,,,05 62 72 77 80
+RH_fiche_190_,Ref_0190,,31,=31=,Toulouse,,Secours populaire,Secours populaire,31200,147 avenue des etats unis,,147 avenue des etats unis 31200 Toulouse,,,Association,,,05 34 40 34 40
+RH_fiche_191_,Ref_0191,,31,=31=,Toulouse,,Secours catholique,Secours catholique,31200,place du marche aux cochons,,place du marche aux cochons 31200 Toulouse,,,Association,,,05 34 25 67 40
+RH_fiche_192_,Ref_0192,,31,=31=,Toulouse,,point information jeunesse (PIJ) Quartier Nord,,31200,118 Boulevard Pierre et Marie Curie,,118 Boulevard Pierre et Marie Curie 31200 Toulouse,,,Association,,,05 62 72 23 78
+RH_fiche_193_,Ref_0193,,31,=31=,Toulouse,,Entr'act solidarite,,31200,148 avenue de fronton,,148 avenue de fronton 31200 Toulouse,,,Association,,,05 61 55 59 26
+RH_fiche_194_,Ref_0194,,31,=31=,Toulouse,,Mission Locale Antenne quartier nord,,31200,1 rue ernest renan,,1 rue ernest renan 31200 Toulouse,,,Association,,,05 61 57 59 92
+RH_fiche_195_,Ref_0195,,31,=31=,Toulouse,,Centre social Alliances & Cultures Cap Nord,,31200,12 rue Clouet,,12 rue Clouet 31200 Toulouse,,,,Centre social,,05 61 13 35 96
+RH_fiche_196_,Ref_0196,,31,=31=,Toulouse,,CCPS et CARMI,,31200,44 chemin des izards,,44 chemin des izards 31200 Toulouse,,,,Centre social,,05 62 72 48 50
+RH_fiche_197_,Ref_0197,,31,=31=,Toulouse,,Alliances et Cultures Les Troênes,,31200,69 rue des Troênes,,69 rue des Troênes 31200 Toulouse,,,,Centre social,,05 61 57 14 71
+RH_fiche_198_,Ref_0198,,31,=31=,Toulouse,,Antenne CCPS Picarel,,31200,26 allées Django Reinhard,,26 allées Django Reinhard 31200 Toulouse,,,,Centre social,,05 61 70 45 62
+RH_fiche_199_,Ref_0199,,31,=31=,Toulouse,,Antenne CCPS Les Chênes,,31200,49 rue des mésanges,,49 rue des mésanges 31200 Toulouse,,,,Centre social,,05 62 75 46 29
+RH_fiche_200_,Ref_0200,,31,=31=,Toulouse,,Centre social Izards/Borderouge,,31200,1 place Micoulaud,,1 place Micoulaud 31200 Toulouse,,,,Centre social,,05 67 04 14 80
+RH_fiche_201_,Ref_0201,,31,=31=,Toulouse,,MJC Croix-Daurade,,31200,,,31200 Toulouse,,,,,,
+RH_fiche_202_,Ref_0202,,31,=31=,Cugnaux,,Espace Arc-En-Ciel,,31270,1 rue Vincent Auriol,,1 rue Vincent Auriol 31270 Cugnaux,,,,Centre social,,05 62 87 30 11
+RH_fiche_203_,Ref_0203,,31,=31=,Castanet-Tolosan,,maison des solidarités Castanet-Tolosan,Conseil départemental,31300,68 avenue de Lauragais,,68 avenue de Lauragais 31300 Castanet-Tolosan,,,Collectivité territoriale,,,05 62 71 91 80
+RH_fiche_204_,Ref_0204,,31,=31=,Toulouse,,Centre Social – ASSQOT,,31300,18 rue Vincent Scotto,,18 rue Vincent Scotto 31300 Toulouse,,,,Centre social,,
+RH_fiche_205_,Ref_0205,,31,=31=,Toulouse,,Centre social annexe Arenes romaines,,31300,107 avenue des Arènes Romaines,,107 avenue des Arènes Romaines 31300 Toulouse,,,,Centre social,,05 61 16 09 46
+RH_fiche_206_,Ref_0206,,31,=31=,Toulouse,,CCPS Hameau de fleurance,,31300,12 impasse benozzi,,12 impasse benozzi 31300 Toulouse,,,,Centre social,,05 62 72 48 50
+RH_fiche_207_,Ref_0207,,31,=31=,Toulouse,,Point Infomartions Jeunesse Empalot,,31400,,,31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_208_,Ref_0208,,31,=31=,Toulouse,,Mediatheque Empalot,Toulouse Metropôle,31400,40 avenue jean moulin,,40 avenue jean moulin 31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_209_,Ref_0209,,31,=31=,Toulouse,,maison des citoyennetes Niel,Toulouse Metropôle,31400,81 rue saint roch,,81 rue saint roch 31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_210_,Ref_0210,,31,=31=,Toulouse,,Bibliotheque Mediatheque Rangueil,Toulouse Metropôle,31400,19 rue claude forbin,,19 rue claude forbin 31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_211_,Ref_0211,,31,=31=,Toulouse,,Bib' Insa,,31400,135 avenue de rangueil,,135 avenue de rangueil 31400 Toulouse,,,,,,
+RH_fiche_212_,Ref_0212,,31,=31=,Toulouse,,Bibliotheque Universitaire de Sciences,,31400,118 rte de narbonne,,118 rte de narbonne 31400 Toulouse,,,,,,
+RH_fiche_213_,Ref_0213,,31,=31=,Toulouse,,Avenir Nouvelle maison des chomeurs,,31400,115 rue bonnat,,115 rue bonnat 31400 Toulouse,,,Association,,,05 34 31 33 11
+RH_fiche_214_,Ref_0214,,31,=31=,Toulouse,,Maison Des Solidarités Empalot,Conseil Départemental,31400,32 allée henri sellier,,32 allée henri sellier 31400 Toulouse,,,collectivité territoriale,,,05 61 14 76 00
+RH_fiche_215_,Ref_0215,,31,=31=,Toulouse,,Centre social Jean Moulin / Empalot (CAF),,31400,38 avenue jean moulin,,38 avenue jean moulin 31400 Toulouse,,,,Centre social,,05 34 31 94 42
+RH_fiche_216_,Ref_0216,,31,=31=,Toulouse,,Mission Locale Empalot,Mission locale Toulouse,31400,6 Place Guy Hersant,,6 Place Guy Hersant 31400 Toulouse,,,collectivité territoriale,,,05 34 31 25 25
+RH_fiche_217_,Ref_0217,,31,=31=,Toulouse,,Pole emploi St Michel,Pôle Emploi,31400,2 avenue de l'urss,,2 avenue de l'urss 31400 Toulouse,,,,Agence Pôle Emploi,,
+RH_fiche_218_,Ref_0218,,31,=31=,Toulouse,,Pole emploi La plaine,Pôle Emploi,31400,1 impasse rene couzinet,,1 impasse rene couzinet 31400 Toulouse,,,,Agence Pôle Emploi,,
+RH_fiche_219_,Ref_0219,,31,=31=,Toulouse,,Rangueil club de prevention,Toulouse Metropôle,31400,34 avenue de Rangueil,,34 avenue de Rangueil 31400 Toulouse,,,Collectivité territoriale,,,
+RH_fiche_220_,Ref_0220,,31,=31=,Toulouse,,Centre Epide,,31400,3 avenue du professeurue Joseph Ducuing,,3 avenue du professeurue Joseph Ducuing 31400 Toulouse,,,,,,05 81 60 89 89
+RH_fiche_221_,Ref_0221,,31,=31=,Toulouse,,Rectorat,Rectorat 31,31400,75 rue saint roch,,75 rue saint roch 31400 Toulouse,,,,,,
+RH_fiche_222_,Ref_0222,,31,=31=,Toulouse,,MJC du Pont des demoiselles,,31400,63 bis avenue Saint-Exupéry,,63 bis avenue Saint-Exupéry 31400 Toulouse,,,Association,,,05 61 52 24 33
+RH_fiche_223_,Ref_0223,,31,=31=,Toulouse,,Relai 2A (association Le relai),,31400,15 rue du japon,,15 rue du japon 31400 Toulouse,,,Association,,,
+RH_fiche_224_,Ref_0224,,31,=31=,Toulouse,,Antenne GRETA,GRETA,31400,3 rue andré daste,,3 rue andré daste 31400 Toulouse,,,Entreprise,,,
+RH_fiche_225_,Ref_0225,,31,=31=,Toulouse,,Ligue de l'enseignement,Ligue de l'enseignement,31400,38 avenue Jean Moulin,,38 avenue Jean Moulin 31400 Toulouse,,,Association,,,
+RH_fiche_226_,Ref_0226,,31,=31=,Toulouse,,La main à la pate,,31400,62 rue de Nîmes,,62 rue de Nîmes 31400 Toulouse,,,Association,,,
+RH_fiche_227_,Ref_0227,,31,=31=,Toulouse,,Generations solidaires,,31400,30 avenue jean moulin,,30 avenue jean moulin 31400 Toulouse,,,Association,,,
+RH_fiche_228_,Ref_0228,,31,=31=,Toulouse,,ASEER,,31400,38 avenue jean moulin,,38 avenue jean moulin 31400 Toulouse,,,Association,,,05 61 14 26 12
+RH_fiche_229_,Ref_0229,,31,=31=,Toulouse,,Centre annexe Empalot,Conseil Départemental,31400,10 rue jean paul blanchard,,10 rue jean paul blanchard 31400 Toulouse,,,Collectivité territoriale,,,05 61 14 94 20
+RH_fiche_230_,Ref_0230,,31,=31=,Toulouse,,Maison Des Solidarités Rangueil,Conseil Départemental,31400,39 rue camille desmoullins,,39 rue camille desmoullins 31400 Toulouse,,,Collectivité territoriale,,,
+RH_fiche_231_,Ref_0231,,31,=31=,Toulouse,,Maison Des Solidarités Pont des demoiselles,Conseil Départemental,31400,PLACE MENDES FRANCE,,PLACE MENDES FRANCE 31400 Toulouse,,,Collectivité territoriale,,,
+RH_fiche_232_,Ref_0232,,31,=31=,Toulouse,,AIFOMEJ,,31400,5 impasse des hérons,,5 impasse des hérons 31400 Toulouse,,,Association,,,05 61 53 52 34
+RH_fiche_233_,Ref_0233,,31,=31=,Toulouse,,Karavan,,31400,,,31400 Toulouse,,,Association,,,
+RH_fiche_234_,Ref_0234,,31,=31=,Toulouse,,CIDFF,,31400,95 grande rue st michel,,95 grande rue st michel 31400 Toulouse,,,Association,,,05 34 31 23 31
+RH_fiche_235_,Ref_0235,,31,=31=,Toulouse,,Empalot Services,,31400,,,31400 Toulouse,,,Association,,,
+RH_fiche_236_,Ref_0236,,31,=31=,Toulouse,,Restos du coeur,Restos du coeur,31400,286 rte de revel,,286 rte de revel 31400 Toulouse,,,Association,,,09 83 98 46 19
+RH_fiche_237_,Ref_0237,,31,=31=,Toulouse,,Emmaüs Agir,Emmaüs,31400,43 avenue de l'URSS,,43 avenue de l'URSS 31400 Toulouse,,,Association,,,
+RH_fiche_238_,Ref_0238,,31,=31=,Toulouse,,Maison Des Solidarités Montaudran,Conseil Départemental,31400,,,31400 Toulouse,,,Collectivité territoriale,,,
+RH_fiche_239_,Ref_0239,,31,=31=,Toulouse,,Mairie de quartier Pont des Demoiselles,,31400,,,31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_240_,Ref_0240,,31,=31=,Toulouse,,Maison de quartier rangueil/centre social,,31400,,,31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_241_,Ref_0241,,31,=31=,Toulouse,,Bibliotheque des ponts des demoiselles,,31400,63 bis avenue st exupery,,63 bis avenue st exupery 31400 Toulouse,,,collectivité territoriale,,,
+RH_fiche_242_,Ref_0242,,31,=31=,Toulouse,,Cosmopolitaine,,31400,,,31400 Toulouse,,,Association,,,
+RH_fiche_243_,Ref_0243,,31,=31=,Toulouse,,CLCV,,31400,,,31400 Toulouse,,,,,,
+RH_fiche_244_,Ref_0244,,31,=31=,Toulouse,,Centre social Jolimont Soupetard,,31500,Centre social Jolimont 11 avenue de l'observatoire,,Centre social Jolimont 11 avenue de l'observatoire 31500 Toulouse,,,,Centre social,,05 31 22 94 84
+RH_fiche_245_,Ref_0245,,31,=31=,Toulouse,,Fédération des Femmes pour l'Europe (FFPE),,31500,1 rue Léon Jouhaux,,1 rue Léon Jouhaux 31500 Toulouse,,,Association,,,
+RH_fiche_246_,Ref_0246,,31,=31=,Toulouse,,Mission Locale centre,,31500,24 rue Garipuy,,24 rue Garipuy 31500 Toulouse,,,Association,,,
+RH_fiche_247_,Ref_0247,,31,=31=,Toulouse,,Mission Locale Antenne Jolimont,,31500,,,31500 Toulouse,,,Association,,,
+RH_fiche_248_,Ref_0248,,31,=31=,Toulouse,,Agir et devenir,,31500,,,31500 Toulouse,,,Association,,,
+RH_fiche_249_,Ref_0249,,31,=31=,Toulouse,,Centre social Jean Rieux,,31500,,,31500 Toulouse,,,,Centre social,,
+RH_fiche_250_,Ref_0250,,31,=31=,Toulouse,,APSAR,,31500,70 chemin michoun,,70 chemin michoun 31500 Toulouse,,,Association,Centre social,,05 82 08 11 70
+RH_fiche_251_,Ref_0251,,31,=31=,Toulouse,,Centre social Jolimont,,31500,11 avenue de l'observatoire,,11 avenue de l'observatoire 31500 Toulouse,,,,Centre social,,05 67 77 44 80
+RH_fiche_252_,Ref_0252,,31,=31=,Toulouse,,Maison Des Solidarités Bonnefoy/Amouroux,Conseil Départemental,31500,3 rue du faubourg bonnefoy,,3 rue du faubourg bonnefoy 31500 Toulouse,,,Collectivité territoriale,,,05 34 25 51 00
+RH_fiche_253_,Ref_0253,,31,=31=,Toulouse,,Centre social polyvalent Jean Rieux,,31500,157 avenue jean rieux,,157 avenue jean rieux 31500 Toulouse,,,,Centre social,,05 61 54 80 00
+RH_fiche_254_,Ref_0254,,31,=31=,Toulouse,,Centre social ASPAR,,31500,70 chemin Michoun,,70 chemin Michoun 31500 Toulouse,,,,Centre social,,
+RH_fiche_255_,Ref_0255,,31,=31=,Toulouse,,Centre social Jolimont Soupetard,,31500,Antenne soupetard 12 rue charles garnier,,Antenne soupetard 12 rue charles garnier 31500 Toulouse,,,,Centre social,,05 31 22 95 15
+RH_fiche_256_,Ref_0256,,31,=31=,Toulouse,,Mediatheque Jose Cabanis,,31500,1 Allée Jacques Chaban-Delmas,,1 Allée Jacques Chaban-Delmas 31500 Toulouse,,,collectivité territoriale,Bibliothèque,,05 62 27 40 00
+RH_fiche_257_,Ref_0257,,31,=31=,Toulouse,,Maison de la citoyenneté Est,,31500,8 bis avenue du parc,,8 bis avenue du parc 31500 Toulouse,,,collectivité territoriale,,,05 31 22 93 00
+RH_fiche_258_,Ref_0258,,31,=31=,Toulouse,,Pole Emploi Jolimont,Pôle Emploi,31500,,,31500 Toulouse,,,,Agence Pôle Emploi,,
+RH_fiche_259_,Ref_0259,,31,=31=,Toulouse,,Mediathèque Serveyrolles,,31500,,,31500 Toulouse,,,,,,
+RH_fiche_260_,Ref_0260,,31,=31=,Toulouse,,Point Information Jeunesse Jolimont,,31500,,,31500 Toulouse,,,,,,
+RH_fiche_261_,Ref_0261,,31,=31=,Colomiers,,PRCP,,31770,2 allée du vignemale,,2 allée du vignemale 31770 Colomiers,,,Association,,,05 61 15 43 44
+RH_fiche_262_,Ref_0262,,31,=31=,Toulouse,,ADVITAM,,,,,Toulouse,,,Association,,,
+RH_fiche_263_,Ref_0263,,31,=31=,Toulouse,,CHRS de Fages,,31400,16 chemin de Fages,,16 chemin de Fages 31400 Toulouse,,,,,,05 61 14 76 76
+RH_fiche_264_,Ref_0264,,31,=31=,Toulouse,,ADPAM,,,,,Toulouse,,,Association,,,
+RH_fiche_265_,Ref_0265,,31,=31=,Toulouse,,CSF Le Cabri,,,,,Toulouse,,,Association,,,
+RH_fiche_266_,Ref_0266,,65,=65=,Vic en Bigorre,,Maison Départementale de la Solidarité du Val d'Adour,,65500,445 avenue Jean Fourcade,,445 avenue Jean Fourcade 65500 Vic en Bigorre,,,,,Département des Hautes Pyrénées,05 31 74 35 90
+RH_fiche_267_,Ref_0267,,31,=31=,Toulouse,,A.I.R.S,,,,,Toulouse,,,Association,,,09 71 30 75 86
+RH_fiche_268_,Ref_0268,,31,=31=,Toulouse,,Accueil Amouroux,,,,,Toulouse,,,collectivité territoriale,,,
+RH_fiche_269_,Ref_0269,,31,=31=,Toulouse,,Accueil Soupetard,,,,,Toulouse,,,collectivité territoriale,,,
+RH_fiche_270_,Ref_0270,,31,=31=,Toulouse,,Maison de la citoyenneté Est,,,8 bis avenue du Parc,,8 bis avenue du Parc Toulouse,,,collectivité territoriale,,,05 31 22 93 00
+RH_fiche_271_,Ref_0271,,31,=31=,Toulouse,,Maison de la citoyenneté Nord,,,4 place du Marché aux cochons,,4 place du Marché aux cochons Toulouse,,,collectivité territoriale,,,5 31 22 97 00
+RH_fiche_272_,Ref_0272,,31,=31=,Toulouse,,Maison de la citoyenneté Rive Gauche,,,20 place Jean-Diebold,31300,20 place Jean-Diebold Toulouse,,,collectivité territoriale,,,05 31 22 91 30
+RH_fiche_273_,Ref_0273,,31,=31=,Toulouse,,Maison de la citoyenneté Sud Est,,,Site Niel - 81 rue Saint Roch,31400,Site Niel - 81 rue Saint Roch Toulouse,,,collectivité territoriale,,,05 67 73 82 71
+RH_fiche_274_,Ref_0274,,31,=31=,Toulouse,,Point Information Mairie Serveyrolles,,,,,Toulouse,,,collectivité territoriale,,,05 61 22 22 39
+RH_fiche_275_,Ref_0275,,31,=31=,Toulouse,,Lieu Ressource Formation,Lieu Ressource Formation,31100,52 rue Jacques Babinet,,52 rue Jacques Babinet 31100 Toulouse,,,,organisme de formation,,05 62 48 53 20
+RH_fiche_276_,Ref_0276,,31,=31=,Toulouse,,Planning Familial,,,,,Toulouse,,,,,,
+RH_fiche_277_,Ref_0277,,31,=31=,Toulouse,,Bibliothèque Roseraie,,31500,100 avenue Yves Brunaud,,100 avenue Yves Brunaud 31500 Toulouse,,,,Bibliothèque,,05 31 22 95 33
+RH_fiche_278_,Ref_0278,,31,=31=,,,NB Com',,,,,,,,,,,
+RH_fiche_279_,Ref_0279,,31,=31=,,,CRIJ,,,,,,,,collectivité territoriale,,,
+RH_fiche_280_,Ref_0280,,31,=31=,,,SAVIM,,,,,,,,,,,
+RH_fiche_281_,Ref_0281,,31,=31=,,,ASETE,,,,,,,,,,,
+RH_fiche_282_,Ref_0282,,31,=31=,,,Mairie annexe Roseraie,,,,,,,,collectivité territoriale,,,05 31 22 93 10
+RH_fiche_283_,Ref_0283,,31,=31=,,,Mairie annexe Bonnefoy,,,,,,,,collectivité territoriale,,,05 61 22 22 32
+RH_fiche_284_,Ref_0284,,31,=31=,Toulouse,,Cap Nomade,,31000,31 rue amidonniers,,31 rue amidonniers 31000 Toulouse,,,Association,,,06 01 99 36 23 ou 09 50 94 58 16
+RH_fiche_285_,Ref_0285,,31,=31=,Toulouse,,LA FABRIQUE SOLIDAIRE DES MINIMES (FA SOL MI),,31200,1 rue Van Dyck,,1 rue Van Dyck 31200 Toulouse,,,ASSOCIATION,,,05 67 00 66 73 - 06 26 92 28 59
+RH_fiche_286_,Ref_0286,,31,=31=,Toulouse,,La Cantine Toulouse,LA MELEE,31000,39 Allées Jules Guesdes,,39 Allées Jules Guesdes 31000 Toulouse,,,ASSOCIATION,,,05 32 10 81 35
+RH_fiche_287_,Ref_0287,,31,=31=,Toulouse,,Nova Mêlée,LA MELEE,31000,27 Rue d’Aubuisson,,27 Rue d’Aubuisson 31000 Toulouse,,,ASSOCIATION,,,05 32 10 81 27
+RH_fiche_288_,Ref_0288,,31,=31=,Toulouse,,EMERGENCE PLUS - DYNAMIQUE TOULOUSE NORD,,31200,2 rue Ernest Renan,,2 rue Ernest Renan 31200 Toulouse,,,ASSOCIATION,,,05 34 51 63 70
+RH_fiche_289_,Ref_0289,,31,=31=,Toulouse,,ARTILECT,,31300,27 bis allée Maurice Sarraut,,27 bis allée Maurice Sarraut 31300 Toulouse,,,ASSOCIATION,,,
+RH_fiche_290_,Ref_0290,,31,=31=,Toulouse,,FABLAB LE PROPULSEUR,ASSOCIATION SCIENCES ANIMATION,31400,39 Allées Jules Guesde,,39 Allées Jules Guesde 31400 Toulouse,,,ASSOCIATION,,,
+RH_fiche_291_,Ref_0291,,31,=31=,Toulouse,,ETINCELLE COWORKING TOULOUSE,SARL ETINCELLE TOULOUSE,31300,2 rue d'Austerlitz,,2 rue d'Austerlitz 31300 Toulouse,,,SARL,,,05 64 88 01 30 - 06 25 02 44 11
+RH_fiche_292_,Ref_0292,,31,=31=,Toulouse,,Ô LOCAL,NOFOMO,31500,8 impasse Bonnet,,8 impasse Bonnet 31500 Toulouse,,,SAS,,,09 52 91 10 10 - 06 49 88 39 79
+RH_fiche_293_,Ref_0293,,31,=31=,Toulouse,,HARRYCOW,,31000,13 rue Sainte Ursule,,13 rue Sainte Ursule 31000 Toulouse,,,SAS,,,06 75 43 56 69
+RH_fiche_294_,Ref_0294,,31,=31=,Toulouse,,LES IMAGINATIONS FERTILES,,31300,27 bis Allées Maurice Sarraut,,27 bis Allées Maurice Sarraut 31300 Toulouse,,,SCIC,Tiers lieux,,06 75 55 72 08
+RH_fiche_295_,Ref_0295,,31,=31=,Toulouse,,Association Diapason,,31100,7bis rue du cher,,7bis rue du cher 31100 Toulouse,,,Association,Association,,05 61 40 16 64
+RH_fiche_296_,Ref_0296,,31,=31=,Toulouse,,TO7,,31100,4 bis chemin robert cambert,,4 bis chemin robert cambert 31100 Toulouse,,,Association,,,05 61 44 27 74
+RH_fiche_297_,Ref_0297,,31,=31=,Tournefeuille,,Mediatheque Tournefeuille,,31170,3 impasse Max Baylac,,3 impasse Max Baylac 31170 Tournefeuille,,,collectivité territoriale,,,05 62 13 21 78
+RH_fiche_298_,Ref_0298,,31,=31=,Tournefeuille,,AGEAH - Maison des Associations Tournefeuille,,31170,27 rue Gaston Doumergue,,27 rue Gaston Doumergue 31170 Tournefeuille,,,Association,,,05 61 06 87 98
+RH_fiche_299_,Ref_0299,,31,=31=,Venerque,,Service Jeunesse Léo Lagrange Venerque,,31810,14 avenue du Mont Frouzi,,14 avenue du Mont Frouzi 31810 Venerque,,,collectivité territoriale,,,
+RH_fiche_300_,Ref_0300,,31,=31=,Villemur sur tarn,,France Services - Val Aïgo Villemur-sur-Tarn,Communauté de communes Val'Aïgo,31340,2 avenue Saint Exupéry,,2 avenue Saint Exupéry 31340 Villemur sur tarn,,,collectivité territoriale,,,
+RH_fiche_301_,Ref_0301,,31,=31=,,,Adens,,,,,,,,Entreprise,,,
+RH_fiche_302_,Ref_0302,,31,=31=,,,DigiJeunes,,,,,,,,,,,
+RH_fiche_303_,Ref_0303,,31,=31=,,,centre culturel des chamois,,,,,,,,,Centre social,,
+RH_fiche_304_,Ref_0304,,31,=31=,,,Pavillon Sauvages,,,,,,,,,,,
+RH_fiche_305_,Ref_0305,,31,=31=,Bagnères de Luchon,,Maison du curiste,,31110,parc des quinconces,,parc des quinconces 31110 Bagnères de Luchon,,,,,,05 61 79 22 22
+RH_fiche_306_,Ref_0306,,32,=32=,Auch,,Le comptoir solidaire / R2D2 Recyclage et Réemploi pour le Développement Durable,,32000,12 quai des marronniers,,12 quai des marronniers 32000 Auch,,,,,,05 62 05 33 98
+RH_fiche_307_,Ref_0307,,32,=32=,Auch,,Garros Services,,32000,4 bis rue du bourget,,4 bis rue du bourget 32000 Auch,,,,Régie de quartier,,05 62 63 65 39
+RH_fiche_308_,Ref_0308,,32,=32=,Auch,,centre de soin en addictologie,,32000,21 avenur de l'yser,,21 avenur de l'yser 32000 Auch,,,,,,05 62 05 28 68
+RH_fiche_309_,Ref_0309,,32,=32=,Auch,,La Dynamo du Gers,GERS DEVELOPPEMENT,32000,6 rue roger salengro,,6 rue roger salengro 32000 Auch,,,ASSOCIATION,,,
+RH_fiche_310_,Ref_0310,,,,,,,,,,,,,,,,,
+RH_fiche_311_,Ref_0311,,32,=32=,Auch,,AG2i,,32000,12 quai des marronniers,,12 quai des marronniers 32000 Auch,,,,,,
+RH_fiche_312_,Ref_0312,,32,=32=,Barran,,France Services Val de Gers Antenne de Barran,Communauté de Communes Val de Gers,32350,45 rue du Docteurue G. Demandès,Mairie de Barran,45 rue du Docteurue G. Demandès 32350 Barran,,,collectivité territoriale,,,
+RH_fiche_313_,Ref_0313,,32,=32=,Berrac,,Gerskali / Gers numérique,,32480,Lieu dit La Peyrigne,,Lieu dit La Peyrigne 32480 Berrac,,,Entreprise,,,06 95 65 88 22
+RH_fiche_314_,Ref_0314,,32,=32=,Caupenne d'armagnac,,SYMA DU NOUGAROPOLE,,32110,Route de Caupenne d’armagnac,,Route de Caupenne d’armagnac 32110 Caupenne d'armagnac,,,syndicat mixte,,,06.72.24.16.70
+RH_fiche_315_,Ref_0315,,32,=32=,Cologne,,Association Arcolan,,32430,LD Buguet Route d'Ardizas,,LD Buguet Route d'Ardizas 32430 Cologne,,,Association,Centre social,,05 62 05 13 61
+RH_fiche_316_,Ref_0316,,32,=32=,Cologne,,MSAP Cologne,,32430,Route d'Ardizas,,Route d'Ardizas 32430 Cologne,,,,MSAP,,05 62 05 13 61
+RH_fiche_317_,Ref_0317,,32,=32=,Cologne,,LE SITE,,32430,Route de Sarrant,,Route de Sarrant 32430 Cologne,,,SAS,,,06 08 51 33 42
+RH_fiche_318_,Ref_0318,,32,=32=,Condom,,Centre Social de la Ténarèze,,32100,28 rue Gambetta,,28 rue Gambetta 32100 Condom,,,,Centre social,,
+RH_fiche_319_,Ref_0319,,32,=32=,Fleurance,,Bibliothèque municipale,,32500,100 rue Pasteur,,100 rue Pasteur 32500 Fleurance,,,collectivité territoriale,,,05 62 06 18 96
+RH_fiche_320_,Ref_0320,,32,=32=,Fleurance,,France Services - Fleurance,Commune de Fleurance,32500,62 Rue Adolphe Cadéot,,62 Rue Adolphe Cadéot 32500 Fleurance,,,collectivité territoriale,,,
+RH_fiche_321_,Ref_0321,,32,=32=,Fleurance,,FABLAB C.C LOMAGNE GERSOISE - LIR,C.C LOMAGNE GERSOISE,32500,8 Avenue Pierre de Coubertin,,8 Avenue Pierre de Coubertin 32500 Fleurance,,,collectivité territoriale,,,
+RH_fiche_322_,Ref_0322,,32,=32=,Lamothe Goas,,Mairie,,32500,68 route de Letoure,,68 route de Letoure 32500 Lamothe Goas,,,collectivité territoriale,,,05 62 65 21 72
+RH_fiche_323_,Ref_0323,,32,=32=,Lectoure,,MSAP,,32700,2 cours Gambetta,,2 cours Gambetta 32700 Lectoure,,,,MSAP,,05 62 68 75 47
+RH_fiche_324_,Ref_0324,,,,,,Télécentre de Lectoure,,,,,,,,,,,
+RH_fiche_325_,Ref_0325,à verifier,32,=32=,Lectoure,,Régie rurale de services de Lomagne,,32700,Zi La Couture,,Zi La Couture 32700 Lectoure,,,Association,,,05 62 68 57 78
+RH_fiche_326_,Ref_0326,,32,=32=,Lectoure,,Bibliothèque médiathèque municipale,,32700,rue Saint Gervais,,rue Saint Gervais 32700 Lectoure,,,collectivité territoriale,,,05 62 68 48 32
+RH_fiche_327_,Ref_0327,,32,=32=,Auch,,Génération Mouvement,,32700,1 place Maréchal Lannes,,1 place Maréchal Lannes 32700 Auch,,,Association,,,05 62 60 19 50
+RH_fiche_328_,Ref_0328,,32,=32=,Lectoure,,Mairie,,32700,Place du Général de Gaulle,,Place du Général de Gaulle 32700 Lectoure,,,collectivité territoriale,,,05 62 68 70 22
+RH_fiche_329_,Ref_0329,à vérifier,32,=32=,Lectoure,,France Services - Lectoure,Commune de Lectoure,32700,2 Cours Gambetta,,2 Cours Gambetta 32700 Lectoure,,,collectivité territoriale,,,
+RH_fiche_330_,Ref_0330,,32,=32=,Lectoure,,PEPINIERES D ENTREPRISES DE LOMAGNE,CC LOMAGNE GERSOISE,32700,ZI La Couture,,ZI La Couture 32700 Lectoure,,,collectivité territoriale,,,05.62.29.52.42 - 06.46.71.43.17
+RH_fiche_331_,Ref_0331,,32,=32=,L’isle Jourdain,,L OURS BRUN,SOCIETE VBR EVENEMENTS,32600,9 Place GAMBETTA,,9 Place GAMBETTA 32600 L’isle Jourdain,,,SARL,,,0680856559 - 06 11 72 24 20
+RH_fiche_332_,Ref_0332,,32,=32=,L’isle Jourdain,,A.P.I. en Gascogne,,32600,2 Avenue du Courdé,,2 Avenue du Courdé 32600 L’isle Jourdain,,,,Centre social,,
+RH_fiche_333_,Ref_0333,,32,=32=,Masseube,,France Services - Val de Gers,Communauté de Communes Val de Gers,32140,16 Avenue Elysée Duffréchou,Ancien couvent,16 Avenue Elysée Duffréchou 32140 Masseube,,,collectivité territoriale,,,
+RH_fiche_334_,Ref_0334,,32,=32=,Mauvezin,,Régie Rurale de Services de Fezensaguet,,32120,43 rue Gambetta,,43 rue Gambetta 32120 Mauvezin,,,Association,,,05 62 06 92 80
+RH_fiche_335_,Ref_0335,,32,=32=,,,Télécentre de Mirande,,,,,,,,,,,
+RH_fiche_336_,Ref_0336,,32,=32=,Jégun,,Accueil jeunes coeur de gascogne,,32360,31 place de la bascule,,31 place de la bascule 32360 Jégun,,,,,,
+RH_fiche_337_,Ref_0337,,32,=32=,,,EREF - PIJ,,,,,,,,,,,
+RH_fiche_338_,Ref_0338,,32,=32=,Plaisance,,France Services - Plaisance du Gers,La Poste,32160,38 rue de l’Adour,,38 rue de l’Adour 32160 Plaisance,,,,La Poste,,
+RH_fiche_339_,Ref_0339,,32,=32=,Riscle,,Télécentre de Riscle,,32400,,,32400 Riscle,,,,,,
+RH_fiche_340_,Ref_0340,à vérifier,32,=32=,Saint Clar,,prends toi en main,,32380,Place De La Vieille église,,Place De La Vieille église 32380 Saint Clar,,,Association,,,
+RH_fiche_341_,Ref_0341,,32,=32=,Saint-Clar,,Médiathèque de Saint-Clar,,32380,place dastros,,place dastros 32380 Saint-Clar,,,,Centre social,,05 62 07 49 12
+RH_fiche_342_,Ref_0342,,32,=32=,Samatan,,MSAP Gestes,,32130,15 place des cordeliers,,15 place des cordeliers 32130 Samatan,,,,MSAP,,
+RH_fiche_343_,Ref_0343,,32,=32=,Samatan,,Centre social Gestes,,32130,15 place des cordeliers,,15 place des cordeliers 32130 Samatan,,,,Centre social,,05 62 07 82 73
+RH_fiche_344_,Ref_0344,,32,=32=,Samatan,,LE BUREAU SAMATANAIS,SAS LE BUREAU SAMATANAIS,32130,6 rue de la commanderie,,6 rue de la commanderie 32130 Samatan,,,SAS,,,06 33 48 01 17
+RH_fiche_345_,Ref_0345,,32,=32=,Sarrant,,Espace de Vie Sociale LaMIS,,32120,14 rue du milieu,,14 rue du milieu 32120 Sarrant,,,,Centre social,,05 42 54 25 24
+RH_fiche_346_,Ref_0346,,32,=32=,Seissan,,France Services - Val de Gers Antenne de Seissan,Communauté de Communes Val de Gers,32260,1 Place Carnot,,1 Place Carnot 32260 Seissan,,,collectivité territoriale,,,
+RH_fiche_347_,Ref_0347,,32,=32=,Simorre,,LE BOUCHE A OREILLE,,32420,Place de la Mairie,,Place de la Mairie 32420 Simorre,,,SCIC SARL,,,05 62 05 52 42
+RH_fiche_348_,Ref_0348,,32,=32=,Vic Fezensac,,Vic Accueil,,32190,13 Rue Jean Jaurès,,13 Rue Jean Jaurès 32190 Vic Fezensac,,,,Centre social,,
+RH_fiche_349_,Ref_0349,,32,=32=,Vic Fezensac,,France Services - Artagnan en Fezensac,Communauté de Communes Artagnan en Fezensac,32190,18 Rue des Cordeliers,,18 Rue des Cordeliers 32190 Vic Fezensac,,,collectivité territoriale,,,
+RH_fiche_350_,Ref_0350,,32,=32=,Gimont,,Cultures portes de gascogne,,32200,85 rue nationale,BP 15,85 rue nationale 32200 Gimont,,,,,,05 62 67 97 10
+RH_fiche_351_,Ref_0351,,32,=32=,Gimont,,Accueil jeunes de Gimont,,32200,85 rue Nationale,,85 rue Nationale 32200 Gimont,,,,,,05.62.67.70.02
+RH_fiche_352_,Ref_0352,,32,=32=,Auch,,Restos du coeur,Restos du coeur,32000,22 rue Frederico Garcia Lorca,Z.I. de l'Hippodrome,22 rue Frederico Garcia Lorca 32000 Auch,,,,,,05 62 60 07 78
+RH_fiche_353_,Ref_0353,,65,=65=,Ancizan,,Centre Culturel,,65440,10 rue de l'Arbizon,,10 rue de l'Arbizon 65440 Ancizan,,,,,,05 62 39 92 29
+RH_fiche_354_,Ref_0354,,65,=65=,Argeles Gazost,,Restos du Cœur,Restos du coeur,65400,2 rue de l'Arrieulat,,2 rue de l'Arrieulat 65400 Argeles Gazost,,,Association,,,
+RH_fiche_355_,Ref_0355,,65,=65=,Argeles Gazost,,Maison Départementale de Solidarité,Conseil Départemental,65400,1 chemin de l'herbe,,1 chemin de l'herbe 65400 Argeles Gazost,,,Collectivité territoriale,,,05 31 74 37 10
+RH_fiche_356_,Ref_0356,,65,=65=,Argeles Gazost,,Médiathèque Municipale,,65400,1 rue Jean Bourdette,,1 rue Jean Bourdette 65400 Argeles Gazost,,,,,,05 62 97 10 59
+RH_fiche_357_,Ref_0357,,65,=65=,Arreau,,France Services - Arreau,La Poste,65240,4 rue Saint-Exupéry,,4 rue Saint-Exupéry 65240 Arreau,,,,La Poste,,
+RH_fiche_358_,Ref_0358,,31,=31=,Ramonville-saint-agne,,Ramonville-saint-agne,,31520,7 rue hermès  Le périscope,,7 rue hermès  Le périscope 31520 Ramonville-saint-agne,,,Entreprise,,,04 84 25 15 16
+RH_fiche_359_,Ref_0359,,65,=65=,Arreau,,Restos du Cœur,Restos du coeur,65240,17 grande rue,,17 grande rue 65240 Arreau,,,Association,,,
+RH_fiche_360_,Ref_0360,,65,=65=,Arreau,,médiathèque,,65240,Chateaux des Nestes,,Chateaux des Nestes 65240 Arreau,,,,,,05 62 98 66 94
+RH_fiche_361_,Ref_0361,,65,=65=,Aspin en Lavedan,,médiathèque de Batsurguère,,65100,3 rue de la Ribère,,3 rue de la Ribère 65100 Aspin en Lavedan,,,,,,05 62 94 79 36 / 06 43 15 36 22
+RH_fiche_362_,Ref_0362,,65,=65=,Aureilhan,,bibliothèque Jules Laforgue,,65800,24 avenue Jean Jaurès,,24 avenue Jean Jaurès 65800 Aureilhan,,,,,,05 62 38 91 65
+RH_fiche_363_,Ref_0363,,65,=65=,Bagneres de Bigorre,,France Services - Haute Bigorre,CC de la Haute-Bigorre,65200,30 avenue Géruzet,,30 avenue Géruzet 65200 Bagneres de Bigorre,,,collectivité territoriale,,,
+RH_fiche_364_,Ref_0364,,65,=65=,Bagnères de Bigorre,,Restos du Cœur,Restos du coeur,65200,4 rue Grasset,,4 rue Grasset 65200 Bagnères de Bigorre,,,Association,,,
+RH_fiche_365_,Ref_0365,,65,=65=,Bagnères de Bigorre,,Médiathèque Intercommunale,,65200,4 rue alsace Lorraine,,4 rue alsace Lorraine 65200 Bagnères de Bigorre,,,collectivité territoriale,,,05 62 95 34 64
+RH_fiche_366_,Ref_0366,,65,=65=,Bagnères de Bigorre,,Maison Départementale de la Solidarité,Conseil Départemental,65200,1 rue Castelmouly,,1 rue Castelmouly 65200 Bagnères de Bigorre,,,collectivité territoriale,,,05 31 74 36 20
+RH_fiche_367_,Ref_0367,,65,=65=,Tarbes,,Maison Départementale de la Solidarité de l'Agglomération Tarbaise,,65000,5 rue Gaston Dreyt,,5 rue Gaston Dreyt 65000 Tarbes,,,,,DSD - Département des Hautes Pyrénées,05 62 56 73 02
+RH_fiche_368_,Ref_0368,,65,=65=,Bordères sur Echez,,bibliothèque Claude Nogaro,,65320,place J Jaurès,,place J Jaurès 65320 Bordères sur Echez,,,,,,05 62 38 33 73
+RH_fiche_369_,Ref_0369,,65,=65=,Castelnau Magnoac,,Médiathèque,,65230,21 place de l'Estelette,,21 place de l'Estelette 65230 Castelnau Magnoac,,,,,,05 62 99 80 62
+RH_fiche_370_,Ref_0370,,65,=65=,Cauterets,,Médiathèque Municipale,,65110,2 Esplanade des œufs,,2 Esplanade des œufs 65110 Cauterets,,,,,,05 62 92 59 96
+RH_fiche_371_,Ref_0371,,65,=65=,Galan,,France Services - Galan,,65330,1 Place de la Bastide,,1 Place de la Bastide 65330 Galan,,,,,,
+RH_fiche_372_,Ref_0372,,65,=65=,Ibos,,bibliothèque Daniel Pennac,,65420,place Verdun,,place Verdun 65420 Ibos,,,,,,05 62 90 61 00
+RH_fiche_373_,Ref_0373,,65,=65=,Jezeau,,LA SOULANE,,65240,Marie - village,,Marie - village 65240 Jezeau,,,ASSOCIATION,,,06 21 98 56 71
+RH_fiche_374_,Ref_0374,,65,=65=,Tarbes,,Espace Public d'Initiatives Citoyennes (EPIC),,65000,4 rue Erik Satié,,4 rue Erik Satié 65000 Tarbes,,,,,DSD - Département des Hautes Pyrénées,05 62 54 38 72
+RH_fiche_375_,Ref_0375,,65,=65=,Lannemezan,,Maison Départementale de la solidarité,Conseil Départemental,65300,325 rue Thiers,,325 rue Thiers 65300 Lannemezan,,,Collectivité territoriale,,,05 31 74 35 10
+RH_fiche_376_,Ref_0376,,65,=65=,Lannemezan,,Restos du Cœur,Restos du coeur,65300,272 rue Voltaire,,272 rue Voltaire 65300 Lannemezan,,,Association,,,
+RH_fiche_377_,Ref_0377,,31,=31=,Montgiscard,,Maison Départementale de Proximité de Montgiscard,,31450,8 RD 816 - Z.I. du Canal,,8 RD 816 - Z.I. du Canal 31450 Montgiscard,,,,,,05 62 52 05 23 
+RH_fiche_378_,Ref_0378,,31,=31=,Labège,,ESPACE EMPLOI FORMATION SICOVAL,,31670,25 RUE PIERRE GILLES DE GENNES,ILLAGE D'ENTREPRISES BÂT 10,25 RUE PIERRE GILLES DE GENNES 31670 Labège,,,EPCI ,,SICOVAL Communauté d'Agglomération,05 61 28 71 10
+RH_fiche_379_,Ref_0379,,65,=65=,Lourdes,,SAGV65,,65100,17 avenue Joffre,BP 846,17 avenue Joffre 65100 Lourdes,,,,Centre social,,
+RH_fiche_380_,Ref_0380,,65,=65=,Lourdes,,Cyberbase et médiathèque,,65100,22 place du champ commun,,22 place du champ commun 65100 Lourdes,,,,,,05 62 94 99 42
+RH_fiche_381_,Ref_0381,,65,=65=,Lourdes,,Restos du Cœur,Restos du coeur,65100,2 rue du Tydos,,2 rue du Tydos 65100 Lourdes,,,Association,,,
+RH_fiche_382_,Ref_0382,,65,=65=,Lourdes,,Maison Départementale de la Solidarité,Conseil Départemental,65100,19 boulevard rue Cazenave,,19 boulevard rue Cazenave 65100 Lourdes,,,Collectivité territoriale,,,05 31 74 35 60
+RH_fiche_383_,Ref_0383,,65,=65=,Luc,,France Services - Luc,,65190,19 rue du Pic du Midi,,19 rue du Pic du Midi 65190 Luc,,,,,,
+RH_fiche_384_,Ref_0384,,65,=65=,Luz Saint Sauveur,,Cyber-base Luz Saint Sauveur,,65120,,,65120 Luz Saint Sauveur,,,,,,
+RH_fiche_385_,Ref_0385,,65,=65=,Luz Saint Sauveur,,Luz-Saint-Sauveur,,65120,Maison Gradet-Poque - Mairie de Luz Saint Sauveur,,Maison Gradet-Poque - Mairie de Luz Saint Sauveur 65120 Luz Saint Sauveur,,,,,,
+RH_fiche_386_,Ref_0386,,65,=65=,Saint Laurent de Neste,,Zone Pic Pyrénées Innovation,,65150,4  Route de Tarbes,,4  Route de Tarbes 65150 Saint Laurent de Neste,,,Association,,,06 09 73 77 06
+RH_fiche_387_,Ref_0387,,65,=65=,Luz Saint Sauveur,,Maison du Parc National et de la Vallée,,65120,24 place St Clément,,24 place St Clément 65120 Luz Saint Sauveur,,,,,,05 62 92 38 38
+RH_fiche_388_,Ref_0388,,34,=34=,Montpellier,,EPN/ LAM 34 -Centre APAJ,,34000,6 rue Dom Vaissette,,6 rue Dom Vaissette 34000 Montpellier,,,Association,,,04 67 06 75 04
+RH_fiche_389_,Ref_0389,,65,=65=,Maubourguet,,France Services - Maubourguet,CC Adour Madiran,65700,CAC J Glavany allées Larbanès,,CAC J Glavany allées Larbanès 65700 Maubourguet,,,collectivité territoriale,,,05 62 96 07 93
+RH_fiche_390_,Ref_0390,,31,=31=,Ramonville Saint Agne,,Info Jeunes Sicoval,Sicoval,31520,Place Jean Jaurès,,Place Jean Jaurès 31520 Ramonville Saint Agne,,,Collectivité territoriale,,Communauté d'agglomération du Sicoval,05 61 75 10 04
+RH_fiche_391_,Ref_0391,,65,=65=,Pierreffitte Nestalas,,La Poste France Services,,65260,place Jean Jaures,,place Jean Jaures 65260 Pierreffitte Nestalas,,,,,,05 62 92 24 60
+RH_fiche_392_,Ref_0392,,65,=65=,Pierreffitte Nestalas,,bibliothèque,,65260,Marie - 1erue étage 2 avenue Gén leclerc,,Marie - 1erue étage 2 avenue Gén leclerc 65260 Pierreffitte Nestalas,,,,,,05 62 92 75 46
+RH_fiche_393_,Ref_0393,,65,=65=,Pierreffitte Nestalas,,France Services - Pierrefitte-Nestalas,La Poste,65260,Place Jean Jaurès,,Place Jean Jaurès 65260 Pierreffitte Nestalas,,,,La Poste,,
+RH_fiche_394_,Ref_0394,,65,=65=,Pouyastruc,,bibliothèque,,65350,rue des écoles,,rue des écoles 65350 Pouyastruc,,,,,,05 62 33 67 39
+RH_fiche_395_,Ref_0395,,65,=65=,Rabastens de Bigorre,,France Services - Rabastens en Bigorre,CC Adour Madiran,65140,16 place centrale,,16 place centrale 65140 Rabastens de Bigorre,,,collectivité territoriale,,,
+RH_fiche_396_,,,,,,,,,,,,,,,,,,
+RH_fiche_397_,,,,,,,,,,,,,,,,,,
+RH_fiche_398_,Ref_0398,,65,=65=,Saint Laurent de Neste,,Maison du savoir,,65150,,,65150 Saint Laurent de Neste,,,,,,
+RH_fiche_399_,Ref_0399,,65,=65=,Saint Laurent de Neste,,FABLAB SAPIENS,C.C. CANTON DE ST LAURENT DE NESTE,65150,Route de Tarbes Toulouse ZA Pic Pyrénées Innovation,,Route de Tarbes Toulouse ZA Pic Pyrénées Innovation 65150 Saint Laurent de Neste,,,collectivité territoriale,,,05 62 50 16 08
+RH_fiche_400_,Ref_0400,,65,=65=,Sarp,,France Services - Sarp,CC Neste Barousse,65370,Maison de la Barousse,Centre Village,Maison de la Barousse 65370 Sarp,,,,,,
+RH_fiche_401_,Ref_0401,,65,=65=,St Lary soulan,,France Services - Saint-Lary-Soulan,Guichet Initiative Pluriactivité Emploi (GIPE),65170,36 rue Vincent Mir,Galerie Commerciale,36 rue Vincent Mir 65170 St Lary soulan,,,Association,,,
+RH_fiche_402_,,,,,,,,,,,,,,,,,,
+RH_fiche_403_,Ref_0403,,65,=65=,St Lary soulan,,Médiathèque Maison du Patrimoine,,65170,41 rue Vincent Mir,,41 rue Vincent Mir 65170 St Lary soulan,,,,,,05 62 40 87 86
+RH_fiche_404_,Ref_0404,,65,=65=,Séméac,,bibliothèque Albert Camus,,65600,51 rue de la République,,51 rue de la République 65600 Séméac,,,,,,05 62 37 78 63
+RH_fiche_405_,Ref_0405,,65,=65=,Séméac,,Restos du Cœur,Restos du coeur,65600,41 rue de la République,,41 rue de la République 65600 Séméac,,,Association,,,
+RH_fiche_406_,Ref_0406,,65,=65=,Tarbes,,France Services - Tarbes Laubadère,La Poste,65000,10 Avenue Antoine de Saint-exupéry,,10 Avenue Antoine de Saint-exupéry 65000 Tarbes,,,,La Poste,,
+RH_fiche_407_,Ref_0407,,65,=65=,Tarbes,,L'ADR'ESS,LES PETITS DEBROUILLARDS,65000,2 Boulevard Garigliano,,2 Boulevard Garigliano 65000 Tarbes,,,ASSOCIATION,,,06 48 86 91 40
+RH_fiche_408_,Ref_0408,,65,=65=,Tarbes,,CRESCENDO - PLURIFAB - LA MANUFACTURE,,65000,14 Boulevard Pierre RENAUDET,,14 Boulevard Pierre RENAUDET 65000 Tarbes,,,ASSOCIATION,,,05.62.36.21.34 - 06.10.78.05.87
+RH_fiche_409_,Ref_0409,,65,=65=,Tarbes,,bibliothèque Louis Aragon,,65000,31 rue André Fourcade,,31 rue André Fourcade 65000 Tarbes,,,,,,05 62 44 38 98
+RH_fiche_410_,Ref_0410,,65,=65=,Tarbes,,bibliothèque Nelson Mandela,,65000,10 avenue Antoine de Saint Exupéry,,10 avenue Antoine de Saint Exupéry 65000 Tarbes,,,,,,05 62 37 99 20
+RH_fiche_411_,Ref_0411,,65,=65=,Tarbes,,Espace Public Initiatives Citoyennes (EPIC),,65000,4 rue Erik Satié,,4 rue Erik Satié 65000 Tarbes,,,,,,05 62 54 38 72
+RH_fiche_412_,Ref_0412,,65,=65=,Tarbes,,Association Informatique Tarbaise,,65000,7 rue André Breyer,,7 rue André Breyer 65000 Tarbes,,,Association,,,06 25 39 46 24
+RH_fiche_413_,Ref_0413,,65,=65=,Tarbes,,St Vincent de Paul,,65000,14 rue Solférino,,14 rue Solférino 65000 Tarbes,,,,,,05 62 51 13 82
+RH_fiche_414_,Ref_0414,,65,=65=,Tarbes,,Confédération Syndicale des Familles,,65000,33 rue E Ténot,,33 rue E Ténot 65000 Tarbes,,,,,,05 62 38 17 69
+RH_fiche_415_,Ref_0415,,65,=65=,Tarbes,,Maison Départementale de la Solidarité site des Bigerrions,Conseil Départemental,65000,37 boulevard du martinet,,37 boulevard du martinet 65000 Tarbes,,,collectivité territoriale,,,05 62 53 34 65
+RH_fiche_416_,Ref_0416,,65,=65=,Tarbes,,Maison Départementale de la Solidarité site de Gaston Dreyt,Conseil Départemental,65000,5 rue Gaston Dreyt,,5 rue Gaston Dreyt 65000 Tarbes,,,collectivité territoriale,,,05 62 56 73 02
+RH_fiche_417_,Ref_0417,,65,=65=,Tarbes,,Maison Départementale de la Solidarité site de St Exupéry,Conseil Départemental,65000,8 rue du Comminges,,8 rue du Comminges 65000 Tarbes,,,collectivité territoriale,,,05 31 74 36 50
+RH_fiche_418_,Ref_0418,,65,=65=,Tarbes,,Bureau d'information Jeunesse (BIJ),,65000,3 rue colomès de Juillan,,3 rue colomès de Juillan 65000 Tarbes,,,,,,05 62 93 22 12
+RH_fiche_419_,Ref_0419,,65,=65=,Tarbes,,point jeunes Laub'ados,,65000,26 rue Guynemer,,26 rue Guynemer 65000 Tarbes,,,,,,05 62 36 31 68
+RH_fiche_420_,Ref_0420,,65,=65=,Tarbes,,Solidarité avec les Gens du Voyage (SAGV),,65000,17 avenue Joffre,,17 avenue Joffre 65000 Tarbes,,,,,,05 62 36 76 44
+RH_fiche_421_,Ref_0421,,65,=65=,Tarbes,,atelier Canopé,,65000,11 rue G. Magnoac,,11 rue G. Magnoac 65000 Tarbes,,,,,,05 62 44 36 36
+RH_fiche_422_,Ref_0422,,65,=65=,Tarbes,,Portes Ouvertes,,65000,6 cité Mouysset,,6 cité Mouysset 65000 Tarbes,,,,,,06 33 42 80 52
+RH_fiche_423_,,,,,,,,,,,,,,,,,,
+RH_fiche_424_,Ref_0424,,65,=65=,Trie sur baïse,,restos du cœur,Restos du coeur,65220,3 place de la Mairie,,3 place de la Mairie 65220 Trie sur baïse,,,Association,,,
+RH_fiche_425_,,,,,,,,,,,,,,,,,,
+RH_fiche_426_,Ref_0426,,65,=65=,Trie sur baïse,,France Services - Coteaux,PETR des coteaux,65220,31 Place de la Mairie,,31 Place de la Mairie 65220 Trie sur baïse,,,collectivité territoriale,,,
+RH_fiche_427_,,,,,,,,,,,,,,,,,,
+RH_fiche_428_,Ref_0428,,65,=65=,Vic en Bigorre,,Maison des Jeunes et de la Culture,,65500,17 Rue Barère de Vieuzac,,17 Rue Barère de Vieuzac 65500 Vic en Bigorre,,,,Centre social,,05 62 31 61 00 / 06 52 96 20 05
+RH_fiche_429_,Ref_0429,,65,=65=,Vic en Bigorre,,France Services - Vic-en-Bigorre,CC Adour Madiran,65500,21 Place du Corps Franc Pommies,,21 Place du Corps Franc Pommies 65500 Vic en Bigorre,,,collectivité territoriale,,,
+RH_fiche_430_,Ref_0430,,65,=65=,Vic en Bigorre,,Restos du Cœur,Restos du coeur,65500,17 rue Barrère de Vieuzac,,17 rue Barrère de Vieuzac 65500 Vic en Bigorre,,,Association,,,
+RH_fiche_431_,,,,,,,,,,,,,,,,,,
+RH_fiche_432_,Ref_0432,,65,=65=,Vic en Bigorre,,Maison Départementale de la Solidarité,Conseil Départemental,65500,445 avenue J Fourcade,,445 avenue J Fourcade 65500 Vic en Bigorre,,,collectivité territoriale,,,05 62 96 74 23
+RH_fiche_433_,,,,,,,,,,,,,,,,,,
+RH_fiche_434_,Ref_0434,,65,=65=,Vic en Bigorre,,Médiathèque Adour Madiran,,65500,Quai Rossignol,,Quai Rossignol 65500 Vic en Bigorre,,,,,,05 62 43 05 25
+RH_fiche_435_,Ref_0435,Actualisé (S.),31,=31=,Toulouse,,Part'ages 31,,31000,Allées Jules Guesdes,La Cantine du Quai,Allées Jules Guesdes 31000 Toulouse,,,Association,,,06 89 17 59 46
+RH_fiche_436_,Ref_0436,Actualisé (S.),31,=31=,Toulouse,,Actisse,,31000,Allées Jules Guesdes,La Cantine du Quai,Allées Jules Guesdes 31000 Toulouse,,,Association,,,
+RH_fiche_437_,Ref_0437,,31,=31=,Villeneuve Tolosane,,Club tolosane informatique,,31270,16 rue de la république,,16 rue de la république 31270 Villeneuve Tolosane,,,Association,,,05 61 31 18 13
+RH_fiche_438_,Ref_0438,,31,=31=,Montrabé,,Club informatique Montrabé,,31850,Espace St Exupéry - allée de la gare,,Espace St Exupéry - allée de la gare 31850 Montrabé,,,Association,,,05 34 26 40 40
+RH_fiche_439_,Ref_0439,,31,=31=,Toulouse,,Lieu Ressources formation,Lieu Ressources formation,31500,1 impasse baurot,,1 impasse baurot 31500 Toulouse,,,Assocation,,,05 62 48 53 20
+RH_fiche_440_,Ref_0440,,31,=31=,COLOMIERS,,Envoi,,31770,5 avenue Clément ADER,,5 avenue Clément ADER 31770 COLOMIERS,,,SASU,,,0561432734
+RH_fiche_441_,Ref_0441,,31,=31=,Toulouse,,Face Grand Toulouse,,31500,32 rue de la Caravelle,,32 rue de la Caravelle 31500 Toulouse,,,,,,05 34 42 07 22
+RH_fiche_442_,Ref_0442,,31,=31=,Rieumes,,MJC Rieumes,,31370,410 rue du pigeonnier,,410 rue du pigeonnier 31370 Rieumes,,,,,,06 49 04 78 81
+RH_fiche_443_,Ref_0443,,31,=31=,Lherm,,MJC Lherm,,31600,2 av de Gascogne,,2 av de Gascogne 31600 Lherm,,,,,,05 61 56 02 32
+RH_fiche_444_,Ref_0444,,31,=31=,Le Fousseret,,Espace de vie sociale Foyers Ruraux,Foyer rural,31430,136 route de Pouy-de-Touges,,136 route de Pouy-de-Touges 31430 Le Fousseret,,,,,,09 81 22 02 28
+RH_fiche_445_,Ref_0445,,31,=31=,Launac,,Club informatique,CCAS de Launac,31330,1 Place des Jardins Galembrun,,1 Place des Jardins Galembrun 31330 Launac,,,,,,
+RH_fiche_446_,Ref_0446,,31,=31=,Grenade,,CCAS Grenade,,31330,17 avenue Lazare Carnot,,17 avenue Lazare Carnot 31330 Grenade,,,Collectivités,,,05 61 37 66 00
+RH_fiche_447_,Ref_0447,,31,=31=,Toulouse,,Lien social insertion et solidarité (ALIS),,31100,3 Cheminement Robert Cambert,,3 Cheminement Robert Cambert 31100 Toulouse,,,Association,,,
+RH_fiche_448_,Ref_0448,,31,=31=,Lasserre-Pradère,,Association Macarion,,31530,2 place de la Mairie,,2 place de la Mairie 31530 Lasserre-Pradère,,,Association,,,05 61 06 04 62
+RH_fiche_449_,Ref_0449,,31,=31=,Toulouse,,La Compagnie du code,,31000,62 rue Matabiau,,62 rue Matabiau 31000 Toulouse,,,SARL en SCIC,,,05 32 10 83 40
+RH_fiche_450_,Ref_0450,,31,=31=,Toulouse,,Wild Code School,,31300,18 place Roguet,,18 place Roguet 31300 Toulouse,,,,,,666476870
+RH_fiche_451_,Ref_0451,,11,=11=,Escales,,NUM.IN.OC  atelier numérique de l'association ATO MOSSU,,11200,1 rue du Mûrier,,1 rue du Mûrier 11200 Escales,,,Association,intervention itinérante,,06 32 98 44 76
+RH_fiche_452_,Ref_0452,,31,=31=,Montlaur,,Mon Assistant Numérique Nord Lauragais,,31450,1000 Route de Potié,,1000 Route de Potié 31450 Montlaur,,,Micro-Entrepreneur,Intervention itinérante  possible à domicile ou auprès de structures ou collectivités,,06 07 36 40 17
+RH_fiche_453_,Ref_0453,,31,=31=,Toulouse,,La Tech Academy,,31000,76 allée Jean Jaurès,,76 allée Jean Jaurès 31000 Toulouse,,,,,,05 61 72 24 09
+RH_fiche_454_,Ref_0454,,31,=31=,Toulouse,,Secours populaire français,Secours populaire,31200,147 Avenue des Etats Unis,,147 Avenue des Etats Unis 31200 Toulouse,,,Association,,,05 34 40 34 40
+RH_fiche_455_,Ref_0455,,31,=31=,Saint-lys,,Ordisol,,31470,4 Avenue de Gascogne,,4 Avenue de Gascogne 31470 Saint-lys,,,Association,Intervention itinérante  possible auprès de structures ou collectivités,samir.chrouki@gmail.com,06 32 51 35 65
+RH_fiche_456_,Ref_0456,,31,=31=,Saint-Lys,,"
+Médi@TIC",CCAS Saint-Lys,31470,1 bis  rue du Presbytère,,1 bis  rue du Presbytère 31470 Saint-Lys,,,,,,05 62 23 76 77
+RH_fiche_457_,Ref_0457,,31,=31=,Toulouse,,La rebooterie,,31200,29 bis avenue des Mazades,,29 bis avenue des Mazades 31200 Toulouse,,,Association,,,
+RH_fiche_458_,Ref_0458,,65,=65=,Castelnau-Magnoac,65129,Médiathèque,,65230,21 place de l'Estelette,,21 place de l'Estelette 65230 Castelnau-Magnoac,,,,,,05 62 99 80 62
+RH_fiche_459_,Ref_0459,,65,=65=,Cauterets,65138,Médiathèque Municipale,,65110,2 Esplanade des œufs,,2 Esplanade des œufs 65110 Cauterets,,,,,,05 62 92 59 96
+RH_fiche_460_,Ref_0460,,,,,,,,,,,,,,,,,
+RH_fiche_461_,Ref_0461,,65,=65=,Trie sur Baïse,65452,Maisons de services au public,,65220,31 place de la mairie,,31 place de la mairie 65220 Trie sur Baïse,,,,,,05 62 35 66 00

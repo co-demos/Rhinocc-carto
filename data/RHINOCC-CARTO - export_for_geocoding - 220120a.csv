@@ -104,8 +104,7 @@ RH_fiche_102_,Ref_0102,,,31,=31=,Colomiers,,Mairie,,31770,,,31770 Colomiers,,,co
 RH_fiche_103_,Ref_0103,,,31,=31=,Colomiers,,CCAS,,31770,18 PLACE DU LANGUEDOC,,18 PLACE DU LANGUEDOC 31770 Colomiers,,,collectivité territoriale,,,
 RH_fiche_104_,Ref_0104,,,31,=31=,Colomiers,,LA MIJOTEUSE,COMMUNE DE COLOMIERS,31770,Place Joseph Verseille,,Place Joseph Verseille 31770 Colomiers,,,collectivité territoriale,,,06.38.50.65.31.
 RH_fiche_105_,Ref_0105,,,31,=31=,Colomiers,,Point Rencontres Chomeurs Precaires (PRCP),,31770,2 Allée du Vignemale,,2 Allée du Vignemale 31770 Colomiers,,,,,,
-RH_fiche_106_,Ref_0106,,,31,=31=,Fenouillet,,Association Femmes du Monde,,31150,,,31150 Fenouillet,,,Association,Centre social,,"05 31 48 50 99
-06 27 20 24 70"
+RH_fiche_106_,Ref_0106,,,31,=31=,Fenouillet,,Association Femmes du Monde,,31150,,,31150 Fenouillet,,,Association,Centre social,,"05 31 48 50 99 06 27 20 24 70"
 RH_fiche_107_,Ref_0107,,,31,=31=,La Salvetat Saint Gilles,,centre social F Chopin,,31880,Rue Frédéric Chopin,,Rue Frédéric Chopin 31880 La Salvetat Saint Gilles,,,,Centre social,,05.34.52.70.96
 RH_fiche_108_,Ref_0108,X,,31,=31=,Labège,,ASSOCIATION IOT VALLEY,,31670,425 rue Jean Rostand,,425 rue Jean Rostand 31670 Labège,,,ASSOCIATION,,,
 RH_fiche_109_,Ref_0109,,,31,=31=,Escalquens,,Maison de la Solidarité,,31670,Mairie d'Escalquens Place François Mitterrand,,Mairie d'Escalquens Place François Mitterrand 31670 Escalquens,,,,Centre social,,05 62 71 56 75
@@ -161,16 +160,14 @@ RH_fiche_158_,Ref_0158,,,31,=31=,Toulouse,,Olympe SAVIF,,31000,3 Place Guy Hersa
 RH_fiche_159_,Ref_0159,,,31,=31=,Toulouse,,CPAM Bagatelle,CPAM,31100,33 rue du Lot,,33 rue du Lot 31100 Toulouse,,,,Antenne CPAM,,3646 (numéro payant)
 RH_fiche_160_,Ref_0160,,,31,=31=,Toulouse,,Partage Faourette,,31100,13 rue de l'ukraine,,13 rue de l'ukraine 31100 Toulouse,,,,Centre social,,05 34 60 13 16
 RH_fiche_161_,Ref_0161,,,31,=31=,Toulouse,,Pôle Emploi La Cepiere,Pôle Emploi,31100,4 Chemin du Pigeonnierue de Cepière,,4 Chemin du Pigeonnierue de Cepière 31100 Toulouse,,,,Agence Pôle Emploi,,39 49 (numéro payant)
-RH_fiche_162_,Ref_0162,,,31,=31=,Toulouse,,"Pôle Emploi
-Bellefontaine",Pôle Emploi,31100,63 allées de Bellefontaine,,63 allées de Bellefontaine 31100 Toulouse,,,,Agence Pôle Emploi,,39 49 (numéro payant)
+RH_fiche_162_,Ref_0162,,,31,=31=,Toulouse,,"Pôle Emploi Bellefontaine",Pôle Emploi,31100,63 allées de Bellefontaine,,63 allées de Bellefontaine 31100 Toulouse,,,,Agence Pôle Emploi,,39 49 (numéro payant)
 RH_fiche_163_,Ref_0163,,,31,=31=,Toulouse,,APSEM,,31100,3 rue Erik SATIE BP 35711,31057 Toulouse cedex 1,3 rue Erik SATIE BP 35711 31100 Toulouse,,,Association,,,05 34 60 39 40
 RH_fiche_164_,Ref_0164,,,31,=31=,Toulouse,,Bell'Arc en Ciel,,31100,14 passage G Duhamel,Apt 299,14 passage G Duhamel 31100 Toulouse,,,Association,,,09 66 82 55 84
 RH_fiche_165_,Ref_0165,,,31,=31=,Toulouse,,Maison des Solidarites,Conseil Départemental,31100,9 rue du Doyen Lefebvre,,9 rue du Doyen Lefebvre 31100 Toulouse,,,collectivité territoriale,,,05 62 87 41 50 
 RH_fiche_166_,Ref_0166,,,31,=31=,Toulouse,,Regie de quartier Bellefontaine Services,,31100,41 rue Rimont,,41 rue Rimont 31100 Toulouse,,,Association,,,09 53 17 88 71
 RH_fiche_167_,Ref_0167,,,31,=31=,Toulouse,,Conciergerie solidaire Desbals services,,31100,135 rue henri desbals,,135 rue henri desbals 31100 Toulouse,,,Association,,,05 62 14 12 55
 RH_fiche_168_,Ref_0168,,,31,=31=,Toulouse,,Les imaginations fertiles,,31100,2 rue Raymond Lizop,,2 rue Raymond Lizop 31100 Toulouse,,,Association,,,05 61 40 92 16
-RH_fiche_169_,Ref_0169,,,31,=31=,Toulouse,,"Regie de quartier
-Reynerie Services",,31100,12 place Abbal,,12 place Abbal 31100 Toulouse,,,Association,,,05 61 44 26 03
+RH_fiche_169_,Ref_0169,,,31,=31=,Toulouse,,"Regie de quartier Reynerie Services",,31100,12 place Abbal,,12 place Abbal 31100 Toulouse,,,Association,,,05 61 44 26 03
 RH_fiche_170_,Ref_0170,,,31,=31=,Toulouse,,Alliances et Cultures MUP,,31100,14 chemin du Mirail,,14 chemin du Mirail 31100 Toulouse,,,Association,,,05 61 44 67 63
 RH_fiche_171_,Ref_0171,,,31,=31=,Toulouse,,Mission Locale Mirail,Mission locale Toulouse,31100,4 allée André Maginot,,4 allée André Maginot 31100 Toulouse,,,Association,,,05 61 41 77 33
 RH_fiche_172_,Ref_0172,,,31,=31=,Toulouse,,Maison de l'initiative,,31100,,,31100 Toulouse,,,Association,,,05 34 63 81 10
@@ -181,8 +178,7 @@ RH_fiche_176_,Ref_0176,,,31,=31=,Toulouse,,Bas d'immeubles,,31100,3 chemin Vince
 RH_fiche_177_,Ref_0177,,,31,=31=,Toulouse,,Voir et comprendre,,31100,18 avenue Winston Churchill,,18 avenue Winston Churchill 31100 Toulouse,,,Association,,,05 62 14 18 19
 RH_fiche_178_,Ref_0178,,,31,=31=,Toulouse,,Centre social municipal Bellefontaine Lafourguette,,31100,3 impasse Foulquier,,3 impasse Foulquier 31100 Toulouse,,,,Centre social,,
 RH_fiche_179_,Ref_0179,,,31,=31=,Toulouse,,Centre social alliances & Cultures Mirail rive droite,,31100,2 cheminement andré messager,,2 cheminement andré messager 31100 Toulouse,,,,Centre social,,05 61 44 67 63
-RH_fiche_180_,Ref_0180,,,31,=31=,Toulouse,,"Centre social
-CAF Reynerie",,31100,15 place Abbal,,15 place Abbal 31100 Toulouse,,,,Centre social,Service public,05 34 60 83 92
+RH_fiche_180_,Ref_0180,,,31,=31=,Toulouse,,"Centre social CAF Reynerie",,31100,15 place Abbal,,15 place Abbal 31100 Toulouse,,,,Centre social,Service public,05 34 60 83 92
 RH_fiche_181_,Ref_0181,,,31,=31=,Toulouse,,Espaces Seniors Connectes,,31100,14 place Abbal,,14 place Abbal 31100 Toulouse,,,Collectivité territoriale,,,
 RH_fiche_182_,Ref_0182,,,31,=31=,Toulouse,,point information jeunesse (PIJ) Mirail,,31100,6 chemin Edgarue Varese,,6 chemin Edgarue Varese 31100 Toulouse,,,Association,,,05 61 72 45 37
 RH_fiche_183_,Ref_0183,,,31,=31=,Toulouse,,PIJ,,31100,,,31100 Toulouse,,,,,,
@@ -458,8 +454,7 @@ RH_fiche_452_,Ref_0452,,,31,=31=,Montlaur,,Mon Assistant Numérique Nord Lauraga
 RH_fiche_453_,Ref_0453,,,31,=31=,Toulouse,,La Tech Academy,,31000,76 allée Jean Jaurès,,76 allée Jean Jaurès 31000 Toulouse,,,,,,05 61 72 24 09
 RH_fiche_454_,Ref_0454,,,31,=31=,Toulouse,,Secours populaire français,Secours populaire,31200,147 Avenue des Etats Unis,,147 Avenue des Etats Unis 31200 Toulouse,,,Association,,,05 34 40 34 40
 RH_fiche_455_,Ref_0455,,,31,=31=,Saint-lys,,Ordisol,,31470,4 Avenue de Gascogne,,4 Avenue de Gascogne 31470 Saint-lys,,,Association,Intervention itinérante  possible auprès de structures ou collectivités,samir.chrouki@gmail.com,06 32 51 35 65
-RH_fiche_456_,Ref_0456,,,31,=31=,Saint-Lys,,"
-Médi@TIC",CCAS Saint-Lys,31470,1 bis  rue du Presbytère,,1 bis  rue du Presbytère 31470 Saint-Lys,,,,,,05 62 23 76 77
+RH_fiche_456_,Ref_0456,,,31,=31=,Saint-Lys,,"Médi@TIC",CCAS Saint-Lys,31470,1 bis  rue du Presbytère,,1 bis  rue du Presbytère 31470 Saint-Lys,,,,,,05 62 23 76 77
 RH_fiche_457_,Ref_0457,,,31,=31=,Toulouse,,La rebooterie,,31200,29 bis avenue des Mazades,,29 bis avenue des Mazades 31200 Toulouse,,,Association,,,
 RH_fiche_458_,Ref_0458,,,65,=65=,Castelnau-Magnoac,65129,Médiathèque,,65230,21 place de l'Estelette,,21 place de l'Estelette 65230 Castelnau-Magnoac,,,,,,05 62 99 80 62
 RH_fiche_459_,Ref_0459,,,65,=65=,Cauterets,65138,Médiathèque Municipale,,65110,2 Esplanade des œufs,,2 Esplanade des œufs 65110 Cauterets,,,,,,05 62 92 59 96
@@ -494,26 +489,16 @@ RH_fiche_487_,Ref_0487,,,31,=31=,Toulouse,,Info Jeunes Occitanie,,31000,17 rue d
 RH_fiche_488_,Ref_0488,,,31,=31=,Auterive,,Info Jeunes Auterive,,31190,1 place du Maréchal Leclerc,,1 place du Maréchal Leclerc 31190 Auterive,,,,,,05 61 50 74 97
 RH_fiche_489_,Ref_0489,,,65,=65=,Tarbes,,Info Jeunes Mairie de Tarbes,,65000,3 Rue Colomès de Juillan,,3 Rue Colomès de Juillan 65000 Tarbes,,,,,,05 62 93 22 12
 RH_fiche_490_,Ref_0490,,,65,=65=,Lourdes,,Info Jeunes Lourdes,,65100,8 impasse des Tilleuls,,8 impasse des Tilleuls 65100 Lourdes,,,,,,05 62 94 31 51
-RH_fiche_491_,Ref_0491,,,31,=31=,Aurignac ,,France Services - Aurignac,,31420,"Traverse du Foirail
-Bureau de poste",,"Traverse du Foirail
-Bureau de poste 31420 Aurignac ",,,,,,05 61 90 85 70
-RH_fiche_492_,Ref_0492,,,31,=31=,Baziège,,France Services - Baziege,,31450,"13 avenue de l’Hers
-",,"13 avenue de l’Hers
- 31450 Baziège",,,,,,06 32 05 67 11
+RH_fiche_491_,Ref_0491,,,31,=31=,Aurignac ,,France Services - Aurignac,,31420,"Traverse du Foirail Bureau de poste",,"Traverse du Foirail Bureau de poste 31420 Aurignac ",,,,,,05 61 90 85 70
+RH_fiche_492_,Ref_0492,,,31,=31=,Baziège,,France Services - Baziege,,31450,"13 avenue de l’Hers",,"13 avenue de l’Hers 31450 Baziège",,,,,,06 32 05 67 11
 RH_fiche_493_,Ref_0493,,,31,=31=,Boulogne-sur-Gesse,,France Services - Boulogne-sur-Gesse,,31350,4 Boulevard Raymond Bergougnan,,4 Boulevard Raymond Bergougnan 31350 Boulogne-sur-Gesse,,,,,,05 61 94 74 40
-RH_fiche_494_,Ref_0494,,,31,=31=,Cadours,,France Services - Cadours,,31480,"Rue d'Essling
-Bureau de poste",,"Rue d'Essling
-Bureau de poste 31480 Cadours",,,,,,05 34 36 25 98
+RH_fiche_494_,Ref_0494,,,31,=31=,Cadours,,France Services - Cadours,,31480,"Rue d'Essling Bureau de poste",,"Rue d'Essling Bureau de poste 31480 Cadours",,,,,,05 34 36 25 98
 RH_fiche_495_,Ref_0495,,,31,=31=,Cazères,,France Services - Cazères,,31220,31 Promenade du Campet,,31 Promenade du Campet 31220 Cazères,,,,,,05 62 01 48 59
 RH_fiche_496_,Ref_0496,,,31,=31=,L'Isle-en-Dondon,,France Services - L'Isle-en-Dondon,,31230,18 avenue du Commandant Taillefer,,18 avenue du Commandant Taillefer 31230 L'Isle-en-Dondon,,,,,,05 62 00 37 51
 RH_fiche_497_,Ref_0497,,,31,=31=,Toulouse,,France Services - Toulouse - Le Mirail,,31100,3 rue de l’Université du Mirail,,3 rue de l’Université du Mirail 31100 Toulouse,,,,,, 06 80 26 23 33
 RH_fiche_498_,Ref_0498,,,65,=65=,Lourdes,,France Services - Lourdes,,65100,22 avenue Maréchal Joffre,,22 avenue Maréchal Joffre 65100 Lourdes,,,,,,05 62 42 54 61
 RH_fiche_499_,Ref_0499,,,32,=32=,Aubiet,,France Services - Aubiet,,32270,14 Avenue du groupe scolaire,,14 Avenue du groupe scolaire 32270 Aubiet,,,,,,05 62 65 90 48
-RH_fiche_500_,Ref_0500,,,32,=32=,Cazaubon,,France Services - Cazaubon,,"
-32150 ","Place des Arènes
-Bureau de poste",,"Place des Arènes
-Bureau de poste 
-32150  Cazaubon",,,,,,05 62 69 56 06
+RH_fiche_500_,Ref_0500,,,32,=32=,Cazaubon,,France Services - Cazaubon,,32150,"Place des Arènes Bureau de poste",,"Place des Arènes Bureau de poste 32150  Cazaubon",,,,,,05 62 69 56 06
 RH_fiche_501_,Ref_0501,,,32,=32=,Eauze,,France Services - Eauze,,32800,Place de la République,,Place de la République 32800 Eauze,,,,,,05 62 09 94 80
 RH_fiche_502_,Ref_0502,,,32,=32=,Saint-Clar,,France Services - Saint-Clar,,32380,Place du Foirail,,Place du Foirail 32380 Saint-Clar,,,,,,05 62 66 41 65
 RH_fiche_503_,Ref_0503,,,32,=32=,Samatan,,France Services - Samatan,,32130,49 rue du Marcadieu,,49 rue du Marcadieu 32130 Samatan,,,,,,05 62 63 45 77
